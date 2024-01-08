@@ -195,7 +195,7 @@ sections:
       title: Featured Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
         {{% /callout %}}
       filters:
         folders:
@@ -209,7 +209,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Note: Papers marked with "*", authors are list alphabetically.
+        Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
