@@ -209,7 +209,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Note: Papers marked with "*", authors are list alphabetically.
         {{% /callout %}}
       filters:
         folders:
