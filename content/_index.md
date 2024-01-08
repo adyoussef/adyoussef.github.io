@@ -72,7 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
+              * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing
+Flows), Bayesian NN, and Sequence models, resulting in a new class of Hadronization models
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
