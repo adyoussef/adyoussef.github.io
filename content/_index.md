@@ -88,6 +88,19 @@ sections:
 
               * Collaborated in an AI research team at EEML summer school, facilitated by Google DeepMind
               * Designed a GAN-based art generator using CLIP model and text prompts, resulting in a publication at the NeurIPS ML for Creativity and Design workshop
+        - title: Lab2Market Fellow
+          company: UC Center for Entrepreneurship
+          #company_url: ''
+          #company_logo: org-x
+          location: Cincinnati
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Build an identification and authentication system to mitigate fraud in art and production lines, elevating security standards
+              * Led market research and cross-functional team collaboration, accelerating product development and securing $2,500 in the New Venture Championship through strategic pitching
+
     design:
       columns: '2'
  # - block: accomplishments
