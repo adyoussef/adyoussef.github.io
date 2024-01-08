@@ -73,8 +73,9 @@ sections:
               Responsibilities include:
 
               * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models, resulting in a new class of Hadronization models
-              * Modelling
-              * Deploying
+              * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
+              * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
+              * Devised an interpretable test statistic to quantify matter - antimatter difference in the LHC-CERN
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
