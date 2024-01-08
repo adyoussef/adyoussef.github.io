@@ -83,6 +83,7 @@ sections:
           #location: California
           date_start: '2022-06-01'
           date_end: ''
+          description: |2-
               Responsibilities include:
 
               * Collaborated in an AI research team at EEML summer school, facilitated by Google DeepMind
