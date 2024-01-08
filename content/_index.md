@@ -76,14 +76,17 @@ sections:
               * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
               * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
               * Devised an interpretable test statistic to quantify matter - antimatter difference in the LHC-CERN
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Independent AI Researcher
+          #company: University X
+          #company_url: ''
+          #company_logo: org-x
+          #location: California
+          date_start: '2022-06-01'
+          date_end: ''
+              Responsibilities include:
+
+              * Collaborated in an AI research team at EEML summer school, facilitated by Google DeepMind
+              * Designed a GAN-based art generator using CLIP model and text prompts, resulting in a publication at the NeurIPS ML for Creativity and Design workshop
     design:
       columns: '2'
  # - block: accomplishments
