@@ -25,10 +25,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In * test test, NeurIPS 2023, ML and the Physical Science workshop*
+publication: In * test, NeurIPS 2023, ML and the Physical Science workshop*
 publication_short: NeurIPS2023 ML4PS
 
-abstract: This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables\: Microscopic Alterations Generated from IR Collections MAGIC, which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the Collective Reweighting Method CRM, which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
+abstract: This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables':' Microscopic Alterations Generated from IR Collections MAGIC, which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the Collective Reweighting Method CRM, which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
 #asdjnd asjdn Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
