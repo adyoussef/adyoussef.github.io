@@ -1,5 +1,5 @@
 ---
-title: 'Towards data driven models of hadronization'
+title: '*Towards data driven models of hadronization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -56,7 +56,7 @@ url_pdf: 'https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ'
 #url_poster: ''
 url_project: ''
 #url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
 
 # Featured image
