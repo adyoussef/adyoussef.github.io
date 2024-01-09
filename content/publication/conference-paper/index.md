@@ -20,9 +20,16 @@ authors:
 
 
 # Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+author_notes:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'Corresponding Author, Presenter at NeurIPS2023 ML4PS'
+  - ''
+
 
 date: '2023-12-01'
 doi: ''
