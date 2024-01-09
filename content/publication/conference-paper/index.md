@@ -4,9 +4,20 @@ title: 'Towards data-driven models of hadronization'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
+#authors:
+#  - admin
+#  - Robert Ford
+
 authors:
+  - Christian Bierlich
+  - Phil Ilten
+  - Tony Menzo
+  - Stephen Mrenna
+  - Manuel Szewc
+  - Michael K. Wilkinson
   - admin
-  - Robert Ford
+  - Jure Zupan
+
 
 # Author notes (optional)
 #author_notes:
