@@ -16,11 +16,11 @@ authors:
   
 
 # Author notes (optional)
-author_notes:
-  - ''
-  - 'Equal contribution'
+#author_notes:
+#  - ''
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+#date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
