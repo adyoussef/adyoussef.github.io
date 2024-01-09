@@ -222,36 +222,36 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: featured
-    content:
-      title: Publications - Machine Learning
-      text: |-
-        {{% callout note %}}
-        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication_ML
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    id: featured
-    content:
-      title: Publications - Physics/Statistic
-      text: |-
-        {{% callout note %}}
-        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
-        {{% /callout %}}
-      filters:
-        folders:
-          - physics_publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Publications - Machine Learning
+#      text: |-
+#        {{% callout note %}}
+#        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication_ML
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
+#  - block: collection
+#    id: featured
+#    content:
+#      title: Publications - Physics/Statistic
+#      text: |-
+#        {{% callout note %}}
+#        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - physics_publication
+#        featured_only: true
+#    design:
+#      columns: '2'
+#      view: card
   - block: collection
     content:
       title: Recent Publications
