@@ -32,7 +32,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: NuerIPS 2023
+publication: In NuerIPS 2023
 #In *NeurIPS*
 publication_short: NOO 2023
 #In *ICW*
