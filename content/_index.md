@@ -232,7 +232,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publication_ML
         featured_only: true
     design:
       columns: '2'
