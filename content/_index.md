@@ -217,7 +217,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publication_ML_Physics
         featured_only: true
     design:
       columns: '2'
