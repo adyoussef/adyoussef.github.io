@@ -210,7 +210,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Selected Publications
+      title: Publications - ML for Physics
       text: |-
         {{% callout note %}}
         NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
@@ -225,7 +225,22 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Physics Publications
+      title: Publications - Machine Learning
+      text: |-
+        {{% callout note %}}
+        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    id: featured
+    content:
+      title: Publications - Physics/Statistics
       text: |-
         {{% callout note %}}
         NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
