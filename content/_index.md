@@ -222,21 +222,21 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    #id: featured
-    content:
-      title: Publications - ML 
-      text: |-
-        {{% callout note %}}
-        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: card
+##  - block: collection
+##    #id: featured
+##    content:
+##      title: Publications - ML 
+##      text: |-
+##        {{% callout note %}}
+##        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+##        {{% /callout %}}
+##      filters:
+##        folders:
+##          - publication
+##        exclude_featured: true
+##    design:
+##      columns: '2'
+##      view: card
 #  - block: collection
 #    id: featured
 #    content:
