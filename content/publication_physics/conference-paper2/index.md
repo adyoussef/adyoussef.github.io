@@ -1,5 +1,5 @@
 ---
-title: '*Towards a data-driven model of hadronization using normalizing flows'
+title: '*Electroweak corrections to the Charm-Top-Quark Contribution to epsilon_K'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,22 +9,14 @@ title: '*Towards a data-driven model of hadronization using normalizing flows'
 #  - Robert Ford
 
 authors:
-  - Christian Bierlich
-  - Phil Ilten
-  - Tony Menzo
-  - Stephen Mrenna
-  - Manuel Szewc
-  - Michael K. Wilkinson
+  - Joachim Brod
+  - Sandra Kvedaraite
+  - Zachary Polonsky
   - admin
-  - Jure Zupan
 
 
 # Author notes (optional)
 author_notes:
-  - ''
-  - ''
-  - ''
-  - ''
   - ''
   - ''
   - ''
