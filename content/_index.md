@@ -212,13 +212,14 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    #id: featured
+    id: tags
     content:
       title: Publications - Physics
       filters:
         folders:
           - publication2
-        exclude_featured: true
+	tags_only: true
+        #exclude_featured: true
     design:
       columns: '2'
       view: card

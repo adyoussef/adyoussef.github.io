@@ -52,7 +52,7 @@ abstract: We introduce a model of hadronization based on invertible neural netwo
 # Summary. An optional shortened abstract.
 summary: In this paper we present ....
 
-tags: []
+tags: true
 
 # Display this page in the Featured widget?
 featured: true
