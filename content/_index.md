@@ -247,7 +247,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication_physics
+          - publication
         featured_only: true
     design:
       columns: '2'
