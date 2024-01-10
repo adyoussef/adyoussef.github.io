@@ -1,5 +1,5 @@
 ---
-title: 'FASST: Few-Shot Abstractive Summarization for Style TransferOB'
+title: 'FASST, Few-Shot Abstractive Summarization for Style Transfer'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,7 +22,7 @@ author_notes:
   - ''
 
 
-date: '2023-12-01'
+date: '2023-09-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -34,8 +34,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS 2023, ML for Creativity and Design
-publication_short: NeurIPS2023 ML4CD
+publication: ICNLP
+publication_short: ICNLP
 
 abstract: Unsupervised text style transfer methods aim to transfer the style of the text without affecting its fundamental meaning using non-parallel data. Although previous work has explored few-shot learning for this task, incorporating few-shot abstractive summarization and its benefits have not yet been explored. Hence, we propose a novel unsupervised text style transfer approach using few-shot abstractive summarization. In our method, we infer a vector space embedding for the corpora and align the source-target embeddings using their vector space centroids. A set of nearest neighbors is retrieved for every source text unit from the target style based on their semantic similarity in the aligned vector space. Multiple subsets of nearest neighbors are extracted and summarized using a language model with a reranking procedure to optimize the style transfer quality, which achieves state-of-the-art results on automatic evaluation metrics. 
 
