@@ -1,5 +1,5 @@
 ---
-title: '*Earth mover’s distance as a measure of CP violation'
+title: '*Earth movers distance as a measure of CP violation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
