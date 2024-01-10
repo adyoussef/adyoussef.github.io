@@ -203,11 +203,11 @@ sections:
   - block: collection
     #id: featured
     content:
-      title: Publications - ML for Physics
+      title: Publications - ML 
       filters:
         folders:
-          - publication2
-        featured_only: true
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: card
