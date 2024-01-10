@@ -201,7 +201,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
+    #id: featured
     content:
       title: Publications - ML for Physics
       filters:
