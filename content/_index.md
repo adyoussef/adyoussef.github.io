@@ -214,7 +214,7 @@ sections:
   - block: collection
     id: labeled
     content:
-      title: Publications - Physics
+      title: My Publications - Physics
       filters:
         folders:
           - publication
