@@ -218,8 +218,7 @@ sections:
       filters:
         folders:
           - publication2
-        #labeled_only: true
-	exclude_featured: true
+	featured_only: true
     design:
       columns: '2'
       view: card
