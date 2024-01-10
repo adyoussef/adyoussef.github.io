@@ -212,8 +212,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: labeled
-    id: featured
+    id: [labeled, featured]
     content:
       title: Publications - Physics
       filters:
