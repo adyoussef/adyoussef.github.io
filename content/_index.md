@@ -212,18 +212,6 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    #id: featured
-    content:
-      title: Publications - Physics
-      filters:
-        folders:
-          - publication
-#        taged_only: true
-	exclude_featured: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Recent Publications
       text: |-
