@@ -56,6 +56,7 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: false
+labeled: true
 
 # Custom links (uncomment lines below)
 # links:
