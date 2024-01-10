@@ -212,18 +212,6 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: featured
-    content:
-      title: My Publications - Physics
-      filters:
-        folders:
-          - publication
-	#labeled_only: true
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Recent Publications
       text: |-
