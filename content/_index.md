@@ -283,6 +283,10 @@ sections:
     id: projects
     content:
       title: Projects
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - project
