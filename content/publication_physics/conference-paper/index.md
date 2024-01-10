@@ -52,11 +52,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_186.pdf'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/JHEP06(2023)098.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
-url_project: 'https://uchep.gitlab.io/mlhad-docs/'
+#url_project: 'https://uchep.gitlab.io/mlhad-docs/'
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
