@@ -227,7 +227,7 @@ sections:
     id: featured
     content:
       title: Publications - ML for Physics
-      text: |-
+      #text: |-
         #{{% callout note %}}
         #NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
         #{{% /callout %}}
