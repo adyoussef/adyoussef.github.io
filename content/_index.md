@@ -195,7 +195,7 @@ sections:
       title: Publications - ML for Physics
       filters:
         folders:
-          - publication
+          - publication_ML_physics
         featured_only: true
     design:
       columns: '2'
