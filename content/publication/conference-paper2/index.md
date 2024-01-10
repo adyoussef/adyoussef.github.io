@@ -62,11 +62,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_186.pdf'
+url_pdf: 'https://arxiv.org/abs/2311.09296'
 url_code: 'https://gitlab.com/uchep/mlhad'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
-url_project: ''
+url_project: 'https://uchep.gitlab.io/mlhad-docs/'
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
@@ -83,8 +83,8 @@ url_project: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
