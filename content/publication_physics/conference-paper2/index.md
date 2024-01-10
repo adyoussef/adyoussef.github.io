@@ -64,8 +64,8 @@ url_pdf: 'https://link.springer.com/article/10.1007/JHEP12(2022)014'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+image:
+  caption: 'Image credit: [**Unsplash**](https://en.wikipedia.org/wiki/Kaon)'
 #  focal_point: ''
 #  preview_only: false
 
