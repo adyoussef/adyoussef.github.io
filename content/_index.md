@@ -207,7 +207,7 @@ sections:
       filters:
         folders:
           - publication2
-        featured_only: false
+        exclude_featured: true
     design:
       columns: '2'
       view: card
