@@ -237,6 +237,21 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
+    id: featured
+    content:
+      title: Publications - Physics
+      text: |-
+        {{% callout note %}}
+        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
 #  - block: collection
 #    id: featured
 #    content:
