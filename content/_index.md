@@ -233,7 +233,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication_ML_physics
+          - publication_ML
 #          - publication
         featured_only: true
     design:
