@@ -1,5 +1,5 @@
 ---
-title: '*Towards data-driven models of hadronization'
+title: 'Hacking Generative Models with Differentiable Network Bending'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,26 +9,18 @@ title: '*Towards data-driven models of hadronization'
 #  - Robert Ford
 
 authors:
-  - Christian Bierlich
-  - Phil Ilten
-  - Tony Menzo
-  - Stephen Mrenna
-  - Manuel Szewc
-  - Michael K. Wilkinson
-  - admin
-  - Jure Zupan
+  - Giacomo Aldegheri 
+  - Alina Rogalska 
+  - admin 
+  - Eugenia Iofinova
 
 
 # Author notes (optional)
 author_notes:
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - 'Corresponding Author, Presenter at NeurIPS2023 ML4PS'
-  - ''
+  - 'Equal Contribution'
+  - 'Equal Contribution; Presenter at NeurIPS2023 ML4CD'
+  - 'Equal Contribution; Presenter at NeurIPS2023 ML4CD'
 
 
 date: '2023-12-01'
@@ -43,11 +35,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS 2023, ML4PS
-publication_short: NeurIPS2023 ML4PS
+publication: NeurIPS 2023, ML for Creativity and Design
+publication_short: NeurIPS2023 ML4CD
 
-abstract: This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables; **M**icroscopic **A**lterations **G**enerated from **I**R **C**ollections (**MAGIC**), which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the **C**ollective **R**eweighting **M**ethod (**CRM**), which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
-#asdjnd asjdn Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this work, we propose a method to 'hack' generative models, pushing their outputs away from the original training distribution towards a new objective. We inject a small-scale trainable module between the intermediate layers of the model and train it for a low number of iterations, keeping the rest of the network frozen. The resulting output images display an uncanny quality, given by the tension between the original and new objectives that can be exploited for artistic purposes.  
 
 # Summary. An optional shortened abstract.
 summary: In this paper we present two novel training paradigm to ....
@@ -62,11 +53,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_186.pdf'
+url_pdf: 'https://arxiv.org/abs/2310.04816'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
-url_project: 'https://uchep.gitlab.io/mlhad-docs/'
+url_project: 'https://galdegheri.github.io/diffbending/'
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
