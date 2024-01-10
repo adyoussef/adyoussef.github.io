@@ -210,7 +210,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: test Publications - ML for Physics
+      title: Publications - ML for Physics
       text: |-
         {{% callout note %}}
         NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
