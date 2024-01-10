@@ -55,6 +55,7 @@ summary: In this paper we present two novel training paradigm to ....
 tags: []
 
 # Display this page in the Featured widget?
+labeled: true
 featured: false
 
 # Custom links (uncomment lines below)

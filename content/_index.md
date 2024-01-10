@@ -217,7 +217,7 @@ sections:
       title: Publications - Physics
       filters:
         folders:
-          - publication2
+          - publication
 	labeled_only: true
         #exclude_featured: true
     design:
