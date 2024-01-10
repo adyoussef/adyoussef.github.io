@@ -223,6 +223,18 @@ sections:
     design:
       columns: '2'
       view: card
+ - block: collection
+    id: featured
+    content:
+      title: Publications - Machine Learning
+      filters:
+        folders:
+          - publication_ML
+#          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
 #  - block: collection
 #    id: featured
 #    content:
