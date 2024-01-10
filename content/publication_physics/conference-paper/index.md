@@ -9,12 +9,8 @@ title: '*Earth mover’s distance as a measure of CP violation'
 #  - Robert Ford
 
 authors:
-  - Christian Bierlich
-  - Phil Ilten
+  - Adam Davis
   - Tony Menzo
-  - Stephen Mrenna
-  - Manuel Szewc
-  - Michael K. Wilkinson
   - admin
   - Jure Zupan
 
@@ -25,13 +21,9 @@ author_notes:
   - ''
   - ''
   - ''
-  - ''
-  - ''
-  - 'Corresponding Author, Presenter at NeurIPS2023 ML4PS'
-  - ''
 
 
-date: '2023-12-01'
+date: '2023-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
