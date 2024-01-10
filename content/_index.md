@@ -229,7 +229,7 @@ sections:
       title: Publications - Machine Learning
       filters:
         folders:
-          - publication_ML
+          - publication_ML_physics
 #          - publication
         featured_only: true
     design:
