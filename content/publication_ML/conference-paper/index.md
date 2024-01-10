@@ -7,7 +7,6 @@ title: 'Hacking Generative Models with Differentiable Network Bending'
 #authors:
 #  - admin
 #  - Robert Ford
-
 authors:
   - Giacomo Aldegheri 
   - Alina Rogalska 
@@ -38,7 +37,7 @@ publication_types: ['paper-conference']
 publication: NeurIPS 2023, ML for Creativity and Design
 publication_short: NeurIPS2023 ML4CD
 
-abstract: In this work, we propose a method to 'hack' generative models, pushing their outputs away from the original training distribution towards a new objective. We inject a small-scale trainable module between the intermediate layers of the model and train it for a low number of iterations, keeping the rest of the network frozen. The resulting output images display an uncanny quality, given by the tension between the original and new objectives that can be exploited for artistic purposes.  
+abstract: In this work, we propose a method to 'hack' generative models, pushing their outputs away from the original training distribution towards a new objective. We inject a small-scale trainable module between the intermediate layers of the model and train it for a low number of iterations, keeping the rest of the network frozen. The resulting output images display an uncanny quality, given by the tension between the original and new objectives that can be exploited for artistic purposes.
 
 # Summary. An optional shortened abstract.
 summary: In this paper we present two novel training paradigm to ....
