@@ -212,7 +212,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    #id: featured
+    id: taged
     content:
       title: Publications - Physics
       filters:
