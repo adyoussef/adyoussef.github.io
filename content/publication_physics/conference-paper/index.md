@@ -35,11 +35,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS 2023, ML4PS
-publication_short: NeurIPS2023 ML4PS
+publication: Journal of High Energy Physics
+publication_short: JHEP
 
-abstract: This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables; **M**icroscopic **A**lterations **G**enerated from **I**R **C**ollections (**MAGIC**), which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the **C**ollective **R**eweighting **M**ethod (**CRM**), which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
-#asdjnd asjdn Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We introduce a new unbinned two sample test statistic sensitive to CP violation utilizing the optimal transport plan associated with the Wasserstein (earth mover’s) distance. The efficacy of the test statistic is shown via two examples of CP asymmetric distributions with varying sample sizes: the Dalitz distributions of B0 and of D0 decays. The windowed version of the Wasserstein distance test statistic is shown to have comparable sensitivity to CP violation as the commonly used energy test statistic, but also retains information about the localized distributions of CP asymmetry over the Dalitz plot. For large statistic datasets we introduce two modified Wasserstein distance based test statistics — the binned and the sliced Wasserstein distance statistics, which show comparable sensitivity to CP violation, but improved computing time and memory scalings. Finally, general extensions and applications of the introduced statistics are discussed 
 
 # Summary. An optional shortened abstract.
 summary: In this paper we present two novel training paradigm to ....
