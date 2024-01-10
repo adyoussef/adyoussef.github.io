@@ -223,10 +223,14 @@ sections:
     design:
       columns: '2'
       view: card
- - block: collection
+  - block: collection
     id: featured
     content:
-      title: Publications - Machine Learning
+      title: Publications - ML for Physics
+      text: |-
+        {{% callout note %}}
+        NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
+        {{% /callout %}}
       filters:
         folders:
           - publication_ML_physics
