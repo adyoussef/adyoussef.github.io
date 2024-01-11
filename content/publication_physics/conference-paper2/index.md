@@ -41,7 +41,8 @@ publication_short: JHEP
 #abstract: We introduce a model of hadronization based on invertible neural networks that faithfully reproduces a simplified version of the Lund string model for meson hadronization. Additionally, we introduce a new training method for normalizing flows, termed MAGIC, that improves the agreement between simulated and experimental distributions of high-level (macroscopic) observables by adjusting single-emission (microscopic) dynamics. Our results constitute an important step toward realizing a machine-learning based model of hadronization that utilizes experimental data during training. Finally, we demonstrate how a Bayesian extension to this normalizing-flow architecture can be used to provide analysis of statistical and modeling uncertainties on the generated observable distributions.
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present ....
+summary: In this paper, we calculate the leading and next-to-leading-logarithmic electroweak corrections for the charm-top-quark contribution to the CP violation parameter epsilon_K, which leads to the reduction of the theory prediction. A more accurate prediction in epsilon_K is crucial in particle physics as it measures CP violation in kaon decay, tests the Standard Model, and probes new physics.
+#In this paper, we calculate the leading-logarithmic and next-to-leading-logarithmic electroweak corrections to the charm-top-quark contribution to the effective |∆S| = 2 Lagrangian, relevant for the CP violation parameter epsilon_K. 
 
 tags: []
 
