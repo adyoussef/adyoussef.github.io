@@ -49,7 +49,7 @@ publication_short: NeurIPS2022 ML4PS
 abstract: Hadronization is an important step in Monte Carlo event generators, where quarks and gluons are bound into physically observable hadrons. Previous work has demonstrated first steps towards a machine-learning (ML) based simulation of the hadronization process. However, the presented architectures are limited to producing only pions as hadron emissions. In this work we use normalizing flows to overcome this limitation. We use masked autoregressive flows as a generator for the kinematic distributions in the hadronization pipeline. We condition normalizing flows (NFs) on different hadron masses and initial configuration energies, which allows for the emission of hadrons with arbitrary masses. The NF generated kinematic distributions match the PYTHIA generated ones well. In this paper we present our preliminary results.
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present two novel training paradigm to ....
+summary: In this paper, we use normalizing flows to overcome previous limitations of ML-based hadronization models, which were restricted to the emission of pions only. 
 
 tags: []
 
