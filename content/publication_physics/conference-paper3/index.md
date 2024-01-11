@@ -47,8 +47,7 @@ publication_types: ['Journal paper']
 publication: SciPost Physics
 publication_short: SciPost Physics
 
-abstract: We present the first steps in the development of a new class of hadronization models utilizing machine learning techniques. We successfully implement, validate, and train a conditional sliced-Wasserstein autoencoder to replicate the PYTHIA generated kinematic distributions of first-hadron emissions, when the Lund string model of hadronization implemented in PYTHIA is restricted to the emissions of pions only. The trained models are then used to generate the full hadronization chains, with an IR cutoff energy imposed externally. The hadron multiplicities and cumulative kinematic distributions are shown to match the PYTHIA generated ones. We also discuss possible future generalizations of our results.
-#This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables; **M**icroscopic **A**lterations **G**enerated from **I**R **C**ollections (**MAGIC**), which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the **C**ollective **R**eweighting **M**ethod (**CRM**), which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
+#abstract: We present the first steps in the development of a new class of hadronization models utilizing machine learning techniques. We successfully implement, validate, and train a conditional sliced-Wasserstein autoencoder to replicate the PYTHIA generated kinematic distributions of first-hadron emissions, when the Lund string model of hadronization implemented in PYTHIA is restricted to the emissions of pions only. The trained models are then used to generate the full hadronization chains, with an IR cutoff energy imposed externally. The hadron multiplicities and cumulative kinematic distributions are shown to match the PYTHIA generated ones. We also discuss possible future generalizations of our results.
 
 # Summary. An optional shortened abstract.
 summary: In this paper we present ....
@@ -63,8 +62,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://scipost.org/SciPostPhys.14.3.027'
-url_code: 'https://gitlab.com/uchep/mlhad'
+url_pdf: 'https://arxiv.org/abs/2308.13459'
+url_code: 'https://gitlab.com/uchep/mlhad-weights-validation'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 url_project: 'https://uchep.gitlab.io/mlhad-docs/'
