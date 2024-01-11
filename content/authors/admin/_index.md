@@ -94,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'youssead@ucmail.uc.edu'
+    link: 'mailto:youssead@ucmail.uc.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
