@@ -116,6 +116,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      #  - certificate_url: https://verified.sertifier.com/en/verify/49821089187147/?ref=email
+      #    date_end: ''
+      #    date_start: '2023-2-01'
+      #    description: ''
+      #    icon: coursera
+      #    organization: Coursera
+      #    organization_url: https://business.uc.edu/centers-partnerships/entrepreneurship.html
+      #    title: Startup Weekend
+      #    url: ''
+        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
+          date_end: ''
+          date_start: '2021-10-01'
+          description: 'Organized by Google DeepMind'
+          icon: coursera
+          organization: Google DeepMind
+          organization_url: https://www.eeml.eu/previous-editions/eeml2022
+          title: EEML summer school 2022
+          url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/TKAUGDAK9T6G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
           date_end: ''
           date_start: '2021-10-01'
