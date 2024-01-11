@@ -1,5 +1,6 @@
 ---
-title: '*Modeling hadronization using machine learning'
+title: '*Reweighting Monte Carlo Predictions and Automated
+Fragmentation Variations in Pythia 8'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,8 +10,12 @@ title: '*Modeling hadronization using machine learning'
 #  - Robert Ford
 
 authors:
-  - Phil Ilten
-  - Tony Menzo
+  - Christian Bierlich1
+  - Phil Ilten2
+  - Tony Menzo2
+  - Stephen Mrenna
+  - Manuel Szewc
+  - Michael K. Wilkinson
   - admin
   - Jure Zupan
 
