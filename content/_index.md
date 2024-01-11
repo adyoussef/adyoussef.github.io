@@ -117,22 +117,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://coursera.org/share/97bd9bd1f404594e6f3156c1cb6d1e33
-          date_end: '2021-04-01'
-          date_start: ''
+          date_end: ''
+          date_start: '2021-04-01'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
           title: GAN Specialization
           url: ''
-        - certificate_url: https://coursera.org/share/97bd9bd1f404594e6f3156c1cb6d1e33
-          date_end: '2021-04-01'
-          date_start: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/G6P5L3JKCJBK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n
+          date_end: ''
+          date_start: '2021-02-01'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: GAN Specialization
+          title: Deep Learning Specialization
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
