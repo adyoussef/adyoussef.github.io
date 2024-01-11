@@ -125,6 +125,15 @@ sections:
       #    organization_url: https://business.uc.edu/centers-partnerships/entrepreneurship.html
       #    title: Startup Weekend
       #    url: ''
+       - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
+          date_end: ''
+          date_start: '2021-10-01'
+          description: 'Organized by Google DeepMind'
+          #icon: coursera
+          organization: EEML Organization Team
+          organization_url: https://www.eeml.eu/previous-editions/eeml2022
+          title: EEML summer school 2022
+          url: ''
         - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
           date_end: ''
           date_start: '2021-10-01'
