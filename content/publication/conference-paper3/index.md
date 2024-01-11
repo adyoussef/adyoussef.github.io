@@ -46,7 +46,7 @@ abstract: We present the first steps in the development of a new class of hadron
 #This paper introduces two novel machine learning based approaches to improve hadron-level simulation by integrating experimental observables; **M**icroscopic **A**lterations **G**enerated from **I**R **C**ollections (**MAGIC**), which fine-tunes normalizing flows, pre-trained on simulated data from PYTHIA, on experimental observables, and the **C**ollective **R**eweighting **M**ethod (**CRM**), which reweights existing fragmentation functions to match experimental observables with a two-step procedure that makes use of a observable-level classifier and hadron-level particle cloud-based regressor. Both methods show a promising direction towards data-driven models for hadronization.
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present ....
+summary: In this paper, we present, the first steps in developing a new class of hadronization models utilizing machine learning. We introduce the pipeline using conditional sliced Wasserstein autoencoder, and successfully reproduce a simplified version of the current state-of-the-art simulator 
 
 tags: []
 
