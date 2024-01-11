@@ -50,7 +50,7 @@ publication_short: SciPost Physics
 #abstract: We present the first steps in the development of a new class of hadronization models utilizing machine learning techniques. We successfully implement, validate, and train a conditional sliced-Wasserstein autoencoder to replicate the PYTHIA generated kinematic distributions of first-hadron emissions, when the Lund string model of hadronization implemented in PYTHIA is restricted to the emissions of pions only. The trained models are then used to generate the full hadronization chains, with an IR cutoff energy imposed externally. The hadron multiplicities and cumulative kinematic distributions are shown to match the PYTHIA generated ones. We also discuss possible future generalizations of our results.
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present ....
+summary:The paper introduces a Monte Carlo-veto algorithm for efficient uncertainty estimation in collider-event simulations, applicable to the Lund string-fragmentation model. This approach enables analysis of different input parameters using a single simulated event set, streamlining uncertainty assessments in physics measurements.
 
 tags: []
 
