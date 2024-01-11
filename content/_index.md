@@ -117,8 +117,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://coursera.org/share/97bd9bd1f404594e6f3156c1cb6d1e33
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2021-04-01'
+          date_start: ''
           description: ''
           icon: coursera
           organization: Coursera
