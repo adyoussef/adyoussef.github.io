@@ -41,7 +41,7 @@ abstract: In this work, we propose a method to 'hack' generative models, pushing
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present two novel training paradigm to ....
+summary: In this paper, we 'hack' generative models by injecting a small-scale trainable module between the intermediate layers of the model. This approach pushes their outputs away from the original training distribution towards a new objective. 
 
 tags: []
 
