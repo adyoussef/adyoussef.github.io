@@ -40,7 +40,7 @@ publication_short: JHEP
 
 
 # Summary. An optional shortened abstract.
-summary: test, In this paper we present two novel training paradigm to ....
+summary: In this paper, a novel unbinned test statistic based on the Wasserstein distance is introduced to detect chargr conjugation parity symmetry violation (CP violation), demonstrated with CP asymmetric distributions in B0 and D0 decays. This statistic matches the sensitivity of traditional tests while providing more detailed insights into localized CP asymmetry.  
 
 tags: []
 
