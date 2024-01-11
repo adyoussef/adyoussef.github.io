@@ -116,6 +116,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/TKAUGDAK9T6G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+          date_end: ''
+          date_start: '2021-10-01'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Natural Language Processing with Classification and Vector Spaces
+          url: ''
         - certificate_url: https://coursera.org/share/97bd9bd1f404594e6f3156c1cb6d1e33
           date_end: ''
           date_start: '2021-04-01'
