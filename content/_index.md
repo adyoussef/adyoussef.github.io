@@ -129,7 +129,7 @@ sections:
           date_end: ''
           date_start: '2021-10-01'
           description: 'Organized by Google DeepMind'
-          icon: coursera
+          #icon: coursera
           organization: Google DeepMind
           organization_url: https://www.eeml.eu/previous-editions/eeml2022
           title: EEML summer school 2022
