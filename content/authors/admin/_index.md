@@ -124,9 +124,11 @@ social:
 highlight_name: true
 ---
 
-I am a physics Ph.D. Candidate at the University of Cincinnati, working on the interface of Physics and AI. My research primarily revolves around computational physics, specifically simulating particle collisions, with a focus on the intricate process of hadronization, where quarks and gluons combine to form particles. This complex phenomenon defies first principles, necessitating a Machine Learning (ML) approach, leveraging generative models.
+[MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/) I am a physics Ph.D. Candidate at the University of Cincinnati, working on the interface of Physics and AI. My research primarily revolves around computational physics, specifically simulating particle collisions, with a focus on the intricate process of hadronization, where quarks and gluons combine to form particles. This complex phenomenon defies first principles, necessitating a Machine Learning (ML) approach, leveraging generative models.
 
-Beyond my work in ML for Science, I have cultivated a deep fascination for ML research, leading me to serve as an Independent AI researcher on a diverse array of projects in generative art and LLM, resulting in publications. Over the past few years, I have become increasingly excited about LLM, AI reasoning, safe and scalable deep learning. I am consistently enthusiastic about tackling new and meaningful projects, and I actively embrace the opportunity to expand my knowledge and skills.
+Beyond my work in ML for Science, I have cultivated a deep fascination for ML research, leading me to serve as an Independent AI researcher on a diverse array of projects in generative art and LLM, resulting in publications. Over the past few years, I have become increasingly excited about LLM, AI reasoning, safe and scalable deep learning. 
+
+I am consistently enthusiastic about tackling new and meaningful projects, and I actively embrace the opportunity to expand my knowledge and skills.
 
 
 {style="text-align: justify;"}
