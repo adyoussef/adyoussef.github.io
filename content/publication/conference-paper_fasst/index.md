@@ -41,7 +41,7 @@ abstract: Unsupervised text style transfer methods aim to transfer the style of 
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper we present two novel training paradigm to ....
+summary: The paper introduces a novel unsupervised text style transfer method using few-shot abstractive summarization. This approach aligns vector space embeddings of source and target texts, selects nearest neighbors based on semantic similarity, and uses a reranking language model for summarization. This method significantly improves style transfer quality and achieves soa results in automatic evaluation metrics. 
 
 tags: []
 
