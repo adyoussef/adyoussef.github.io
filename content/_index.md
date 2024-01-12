@@ -134,13 +134,13 @@ sections:
 ##          organization_url: https://www.m2lschool.org/
 ##          title: EEML summer school 2022
 ##          url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB30V3KyXulr_hgDjfoaYfbQ?e=VEiIcf
+        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EWyjMEl_FxlEuAKyQEZEaRkBPLpl1pqGQtGjWfbBzXRG3Q?e=0ZkZS8
           date_end: ''
           date_start: '2023-08-01'
           description: 'Organized by Google DeepMind'
           #icon: coursera
           organization: M2L Organization Team
-          organization_url: https://mlss2023.mlinpl.org/
+          organization_url: https://www.m2lschool.org/
           title: M2L summer school 2023
           url: ''
         - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB30V3KyXulr_hgDjfoaYfbQ?e=VEiIcf
