@@ -29,8 +29,8 @@ bio: My research interests include generative modeles, probalistic modeling, and
 
 # Interests to show in About widget
 interests:
-  - AI for Science
-  - AI Reasoning
+  - Deep Learning for Science
+  - Deep Learning Reasoning
   - Interdisciplinary Research
 
 # Education to show in About widget
