@@ -134,13 +134,22 @@ sections:
 ##          organization_url: https://www.m2lschool.org/
 ##          title: EEML summer school 2022
 ##          url: ''
-       - certificate_url: 
-          date_end: 'Machine Learning for Science summer school'
-          date_start: '2023-6-01'
-          description: ''
+#       - certificate_url: 
+#          date_end: 'Machine Learning for Science summer school'
+#          date_start: '2023-6-01'
+#          description: ''
+#          #icon: coursera
+#          organization: MLSS Organization Team
+#          organization_url: https://mlss2023.mlinpl.org/
+#          title: EEML summer school 2022
+#          url: ''
+        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
+          date_end: ''
+          date_start: '2021-10-01'
+          description: 'Organized by Google DeepMind'
           #icon: coursera
-          organization: MLSS Organization Team
-          organization_url: https://mlss2023.mlinpl.org/
+          organization: EEML Organization Team
+          organization_url: https://www.eeml.eu/previous-editions/eeml2022
           title: EEML summer school 2022
           url: ''
         - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
