@@ -149,7 +149,7 @@ sections:
           description: 'Summer school about ML for Science'
           #icon: coursera
           organization: MLSS Organization Team
-          organization_url: https://www.eeml.eu/previous-editions/eeml2022
+          organization_url: https://mlss2023.mlinpl.org/
           title: MLSS summer school 2023
           url: ''
         - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
