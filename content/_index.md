@@ -143,7 +143,7 @@ sections:
 #          organization_url: https://mlss2023.mlinpl.org/
 #          title: EEML summer school 2022
 #          url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBFF7rXz99ldwbAeLfenwVSg?e=mI8Ocd
+        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB30V3KyXulr_hgDjfoaYfbQ?e=VEiIcf
           date_end: ''
           date_start: '2023-06-01'
           description: 'Summer school about ML for Science'
