@@ -125,24 +125,15 @@ sections:
       #    organization_url: https://business.uc.edu/centers-partnerships/entrepreneurship.html
       #    title: Startup Weekend
       #    url: ''
-##       - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EWyjMEl_FxlEuAKyQEZEaRkBAMTegnXSsSqdRBt7Vj-1fA?e=g11T6R
-##          date_end: 'Organized by Google DeepMind'
-##          date_start: '2023-6-01'
-##          description: ''
-##          #icon: coursera
-##          organization: M2L Organization Team
-##          organization_url: https://www.m2lschool.org/
-##          title: EEML summer school 2022
-##          url: ''
-#       - certificate_url: 
-#          date_end: 'Machine Learning for Science summer school'
-#          date_start: '2023-6-01'
-#          description: ''
-#          #icon: coursera
-#          organization: MLSS Organization Team
-#          organization_url: https://mlss2023.mlinpl.org/
-#          title: EEML summer school 2022
-#          url: ''
+       - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EWyjMEl_FxlEuAKyQEZEaRkBAMTegnXSsSqdRBt7Vj-1fA?e=g11T6R
+          date_end: 'Organized by Google DeepMind'
+          date_start: '2023-6-01'
+          description: ''
+          #icon: coursera
+          organization: M2L Organization Team
+          organization_url: https://www.m2lschool.org/
+          title: EEML summer school 2022
+          url: ''
         - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB30V3KyXulr_hgDjfoaYfbQ?e=VEiIcf
           date_end: ''
           date_start: '2023-06-01'
