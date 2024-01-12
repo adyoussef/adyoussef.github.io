@@ -134,7 +134,7 @@ sections:
 ##          organization_url: https://www.m2lschool.org/
 ##          title: EEML summer school 2022
 ##          url: ''
-       - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB6k0rtyX_8uEX3syE7ZDQ6Q?e=tiUkBV
+       - certificate_url: 
           date_end: 'Machine Learning for Science summer school'
           date_start: '2023-6-01'
           description: ''
