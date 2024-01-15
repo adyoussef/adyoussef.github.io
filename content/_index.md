@@ -136,7 +136,7 @@ sections:
 ##          organization_url: https://www.m2lschool.org/
 ##          title: EEML summer school 2022
 ##          url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EWyjMEl_FxlEuAKyQEZEaRkBPLpl1pqGQtGjWfbBzXRG3Q?e=0ZkZS8
+        - certificate_url: https://drive.google.com/file/d/1Z6WnQxs1-16Dc6GW2vDQzSiyaS7Sg5HR/view?usp=sharing
           date_end: ''
           date_start: '2023-08-01'
           description: 'Organized by Google DeepMind'
