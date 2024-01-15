@@ -154,7 +154,7 @@ sections:
           organization_url: https://mlss2023.mlinpl.org/
           title: MLSS summer school 2023
           url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBHz_6VCPK1C217oIvJjVicw?e=EhCk2V
+        - certificate_url: https://drive.google.com/file/d/1JrWq1NIATJoniSjGtSI3jwvNz8GClTjd/view?usp=sharing
           date_end: ''
           date_start: '2022-06-01'
           description: 'Organized by Google DeepMind'
