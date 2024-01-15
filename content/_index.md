@@ -163,7 +163,7 @@ sections:
           organization_url: https://www.eeml.eu/previous-editions/eeml2022
           title: EEML summer school 2022
           url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EUcgtVmgvflGqqZoygiNFWsBHz_6VCPK1C217oIvJjVicw?e=EhCk2V
+        - certificate_url: https://coursera.org/share/47da3d05afbc2362a418991bbfbf8fbe
           date_end: ''
           date_start: '2021-10-01'
           description: ''
