@@ -145,7 +145,7 @@ sections:
           organization_url: https://www.m2lschool.org/
           title: M2L summer school 2023
           url: ''
-        - certificate_url: https://mailuc-my.sharepoint.com/:b:/g/personal/youssead_ucmail_uc_edu/EfDE4U4jfapGob5HSVuWw7AB30V3KyXulr_hgDjfoaYfbQ?e=VEiIcf
+        - certificate_url: https://drive.google.com/file/d/184BPL39lcdFb7ULH4JJkzxR3SXuotcmf/view?usp=sharing
           date_end: ''
           date_start: '2023-06-01'
           description: 'Summer school about ML for Science'
