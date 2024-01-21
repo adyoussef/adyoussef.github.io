@@ -301,7 +301,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications - Physics/Statistic
+      title: Publications - Physics
       text: |-
         {{% callout note %}}
         NOTE: Papers marked with (*), the authors are listed alphabetically, following the practice in the field.
