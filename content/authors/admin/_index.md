@@ -118,7 +118,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Ahmed_Youssef_industry_2_pages.pdf
+    link: uploads/CV_Ahmed_Youssef_industry_2_pages_v2_google.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
