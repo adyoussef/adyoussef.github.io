@@ -76,7 +76,7 @@ sections:
               * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models adopted by 10k+ particle physics researcher worldwide
               * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
               * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
-              * Devised an interpretable test statistic to quantify matter - antimatter difference in the LHC-CERN
+              * Innovated a pivotal test statistic, enhancing data analysis and interpretation for collider experiments at LHC-CERN, impacting over 100k datasets and billions of events
         - title: Independent AI Researcher
           #company: University X
           #company_url: ''
