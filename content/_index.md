@@ -87,7 +87,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Collaborated in an AI research team at EEML summer school, facilitated by Google DeepMind
+              * Collaborated in an AI research team at EEML summer school, facilitated by DeepMind
               * Designed a GAN-based art generator using CLIP model and text prompts, resulting in a publication at the NeurIPS ML for Creativity and Design workshop
         - title: Lab2Market Fellow
           company: UC Center for Entrepreneurship
