@@ -74,7 +74,6 @@ sections:
               Responsibilities include (listed tasks resulted in publication(s) and talks at conferences):
 
               * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models adopted by
-#	      * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models adopted by 10k+ particle physics researcher worldwide
               * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
               * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
               * Devised an interpretable test statistic to quantify matter - antimatter difference in the LHC-CERN
