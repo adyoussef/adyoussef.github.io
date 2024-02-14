@@ -107,9 +107,9 @@ social:
   #- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/adyoussef
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ahmed-youssef9/
