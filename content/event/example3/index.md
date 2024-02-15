@@ -1,10 +1,10 @@
 ---
-title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
+title: Towards data-driven models of hadronization
 
 event: NeurIPSML4PS 2023
 event_url: https://ml4physicalsciences.github.io/2023/
 
-location: New Orleans
+location: NeurIPS, New Orleans
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
