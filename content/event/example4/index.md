@@ -2,7 +2,7 @@
 title: ML for Physics: Simulating particle collisions
 
 event: M2L Summer School 2023
-event_url: https://www.m2lschool.org/#h.tde5zur9uvpz
+event_url: https://www.m2lschool.org/
 
 location: M2L, Thessaloniki, Greece
 #address:
