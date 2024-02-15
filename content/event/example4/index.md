@@ -1,10 +1,10 @@
 ---
-title: ML for Physics: Simulating particle collisions
+title: Towards data-driven models of hadronization
 
-event: M2L Summer School 2023
-event_url: https://www.m2lschool.org/
+event: NeurIPSML4PS 2023
+event_url: https://ml4physicalsciences.github.io/2023/
 
-location: M2L, Thessaloniki, Greece
+location: NeurIPS, New Orleans
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,7 +12,8 @@ location: M2L, Thessaloniki, Greece
 #  postcode: '94305'
 #  country: United States
 
-abstract: Poster presentation titled "ML for Physics: Simulating particle collisions" at the Mediterranean Machine Learning Summer School at American College of Thessaloniki (ACT) in Thessaloniki, Greece
+
+abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
