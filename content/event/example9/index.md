@@ -1,11 +1,11 @@
 ---
-title: Poster at Machine Learning Summer School on applications in Science
-subtitle: ML for Physics; Simulating particle collisions
+title: Conference talk at Pheno2023
+subtitle: Normalizing flows and uncertainty quantification in hadronization simulations
 
-event: MLSS^S
-event_url: https://mlss2023.mlinpl.org/
+event: Pheno 2023
+event_url: https://indico.cern.ch/event/1218225/contributions/5380933/
 
-location: Jagiellonian University in Krakow, Poland
+location: University of Pittsburgh, Pittsburgh, Pennsylvania, United States
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -13,7 +13,11 @@ location: Jagiellonian University in Krakow, Poland
 #  postcode: '94305'
 #  country: United States
 
-summary: Poster presentation titled "ML for Physics; Simulating particle collisions" at the Machine Learning Summer School on applications in Science at Jagiellonian University in Krakow, Poland. 
+summary: Talk titled "Normalizing flows and uncertainty quantification in hadronization simulations" at the 2023 Phenomenology Symposium hosted by the University of Pittsburgh in Pittsburgh, Pennsylvania, United States.
+
+abstract:The hadronization process plays a crucial role in Monte Carlo event generators, where quarks and gluons are combined into observable hadrons. However, while current phenomenological models have been quite successful overall in simulating this process, there remain phenomenological areas where they still lack accuracy in describing the underlying physics. Recent research has taken a new approach by utilizing machine-learning (ML) techniques based on generative models for simulating the hadronization process. However, the recently presented architectures have their own set of limitations.
+In this talk, we present an updated version of our MLHad pipeline that overcomes most of the limitations by incorporating normalizing flows (NFs). Our updated approach conditions NFs on different hadron masses and initial configuration energies, which in principle enables the emission of different mesons. Furthermore, the utilization of NFs grants us access to the kinematical probability distribution of the generated mesons. This allows for the implementation of a reweighting technique, which assigns a weight to each emitted meson, enabling us to estimate the uncertainties associated with the process. We demonstrate the capability of the reweighting technique to evaluate the uncertainty of our model.
+
 
 
 # Talk start and end times.
