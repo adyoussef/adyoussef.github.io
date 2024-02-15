@@ -13,7 +13,8 @@ location: NeurIPS, New Orleans
 #  country: United States
 
 
-abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
+abstract: Poster presentation titled "ML for Physics: Simulating particle collisions" at the Mediterranean Machine Learning Summer School at American College of Thessaloniki (ACT) in Thessaloniki, Greece. 
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
