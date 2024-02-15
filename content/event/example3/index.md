@@ -14,7 +14,10 @@ location: NeurIPS, New Orleans
 #  country: United States
 
 
+summary: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
+
 abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

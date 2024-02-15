@@ -13,6 +13,8 @@ location: Indiana University
 #  postcode: '94305'
 #  country: United States
 
+summary: Talk titled "MLHAD: A Machine Learning based Simulation for Hadronization" at the IJS-FMF HEP Seminar hosted by the Jozef Stefan Institute, in Ljubljana, Slovenia.
+
 abstract: Hadronization, a crucial component of event generation, is traditionally simulated using fine-tuned empirical models. While current phenomenological models have been quite successful overall in simulating this process, there are still areas where they lack accuracy in describing the underlying physics. In this talk, I will introduce MLHAD, a proposed alternative that replaces the empirical model with a surrogate machine learning-based approach, ultimately enabling data-trainability. I will detail the current stage of development and discuss possible future directions.
 
 # Talk start and end times.
