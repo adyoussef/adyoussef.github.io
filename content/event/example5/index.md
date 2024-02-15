@@ -1,8 +1,9 @@
 ---
-title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
+title: IJS-FMF High-Energy Physics Seminar
+subtitle: MLHAD; A Machine Learning based Simulation for Hadronization
 
-event: PIKIMO 15
-event_url: https://indico.cern.ch/event/1323700/contributions/5662926/
+event: IJS-FMF High-Energy Physics Seminar
+event_url: https://indico.ijs.si/event/1722/
 
 location: Indiana University
 #address:
@@ -12,11 +13,11 @@ location: Indiana University
 #  postcode: '94305'
 #  country: United States
 
-abstract: Hadronization, a crucial component of event generation, is traditionally simulated using finely-tuned empirical models. While current phenomenological models have achieved significant success in simulating this process, there remain areas where they fall short in accurately describing the underlying physics. In this talk, I will introduce MLHAD, an alternative approach that supplants the empirical model with a surrogate machine learning-based method, thereby facilitating data-trainability. I will delve into the current stage of its development and explore potential future direction.
+abstract: Hadronization, a crucial component of event generation, is traditionally simulated using fine-tuned empirical models. While current phenomenological models have been quite successful overall in simulating this process, there are still areas where they lack accuracy in describing the underlying physics. In this talk, I will introduce MLHAD, a proposed alternative that replaces the empirical model with a surrogate machine learning-based approach, ultimately enabling data-trainability. I will detail the current stage of development and discuss possible future directions.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-11-11'
+date: '2023-08-03'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
