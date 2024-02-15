@@ -1,5 +1,5 @@
 ---
-title: TTowards data-driven models of hadronization
+title: Towards data-driven models of hadronization
 
 event: NeurIPSML4PS 2023
 event_url: https://ml4physicalsciences.github.io/2023/
