@@ -2,26 +2,26 @@
 title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
 
 event: Hugo Blox Builder Conference
-event_url: https://example.org
+event_url: https://indico.cern.ch/event/1323700/contributions/5662926/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Indiana University
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
 summary: Hadronization, a crucial component of event generation, is traditionally simulated using finely-tuned empirical models. While current phenomenological models have achieved significant success in simulating this process, there remain areas where they fall short in accurately describing the underlying physics. In this talk, I will introduce MLHAD, an alternative approach that supplants the empirical model with a surrogate machine learning-based method, thereby facilitating data-trainability. I will delve into the current stage of its development and explore potential future direction.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2023-11-11'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -34,10 +34,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
