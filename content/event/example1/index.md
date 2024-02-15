@@ -37,7 +37,7 @@ tags: []
 featured: false
 
 #image:
-  caption: 'Poster credit: [**Unsplash**](Giacomo Aldegheri)'
+  caption: 'Poster credit: **Giacomo Aldegheri**'
   focal_point: Right
 
 links:
