@@ -36,7 +36,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image:
   caption: 'Poster credit: **Giacomo Aldegheri**'
   focal_point: Right
 
