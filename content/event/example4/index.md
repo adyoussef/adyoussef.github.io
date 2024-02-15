@@ -1,5 +1,6 @@
 ---
 title: ML for Physics; Simulating particle collisions
+subtitle: sk cd
 
 event: M2L Summer School 2023
 event_url: https://www.m2lschool.org/
