@@ -1,7 +1,7 @@
 ---
 title: ML for Physics: Simulating particle collisions
 
-event: PIKIMO 15
+event: M2L Summer School
 event_url: https://indico.cern.ch/event/1323700/contributions/5662926/
 
 location: M2L, Thessaloniky, Greece
