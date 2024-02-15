@@ -2,8 +2,8 @@
 title: Teilchenkolloquium at TU Dortmund
 subtitle: Earth movers distance as a measure of CP violation
 
-event: Particle Phenomenology Seminar at Heidelberg University
-event_url: https://www.thphys.uni-heidelberg.de/~modak/seminars.html
+event: Teilchenkolloquium at TU Dortmund
+event_url: https://indico.e5.physik.tu-dortmund.de/event/2612/
 
 location: TU Dortmund, Dortmund, Germany
 #address:
