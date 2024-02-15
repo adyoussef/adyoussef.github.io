@@ -1,10 +1,10 @@
 ---
-title: Towards data-driven models of hadronization
+title: ML for Physics; Simulating particle collisions
 
-event: NeurIPSML4PS 2023
-event_url: https://ml4physicalsciences.github.io/2023/
+event: M2L Summer School 2023
+event_url: https://www.m2lschool.org/
 
-location: NeurIPS, New Orleans
+location: M2L, Thessaloniki, Greece
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
