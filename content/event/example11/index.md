@@ -1,6 +1,6 @@
 ---
 title: Teilchenkolloquium at TU Dortmund
-subtitle: Earth mover’s distance as a measure of CP violation
+subtitle: Earth movers distance as a measure of CP violation
 
 event: Particle Phenomenology Seminar at Heidelberg University
 event_url: https://indico.e5.physik.tu-dortmund.de/event/2612/
@@ -13,7 +13,7 @@ location: Tu Dortmund, Dortmund, Germany
 #  postcode: '94305'
 #  country: United States
 
-summary: Talk titled "Earth mover’s distance as a measure of CP violation" at the Teilchenkolloquium hosted by the Particle Physics Group at the TU Dortmund in Dortmund, Germany. 
+summary: Talk titled "Earth movers distance as a measure of CP violation" at the Teilchenkolloquium hosted by the Particle Physics Group at the TU Dortmund in Dortmund, Germany. 
 
 abstract: We present a novel unbinned two sample test statistic sensitive to CP violation utilizing the optimal transport plan associated with the Wasserstein (earth mover’s) distance. The efficacy of the test statistic is shown via two examples of CP asymmetric distributions with varying sample sizes: the Dalitz distributions of B0 and D0 decays. The test statistic not only shows comparable sensitivity to CP violation as the commonly used energy test statistic but also retains valuable information about the localized distributions of CP asymmetry across the Dalitz plot. Additionally, we introduce two alternative test statistics that offer similar sensitivities to CP violation while significantly improving the time and space complexity scalings.
 
