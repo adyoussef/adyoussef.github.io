@@ -1,7 +1,7 @@
 ---
 title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
 
-event: PIKIMP 15
+event: PIKIMO 15
 event_url: https://indico.cern.ch/event/1323700/contributions/5662926/
 
 location: Indiana University
