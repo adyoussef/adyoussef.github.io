@@ -2,7 +2,7 @@
 title: Particle Phenomenology Seminar at Heidelberg University
 subtitle: MLHAD; A Machine Learning based Simulation for Hadronization
 
-event: IJS-FMF High-Energy Physics Seminar
+event: Particle Phenomenology Seminar at Heidelberg University
 event_url: https://www.thphys.uni-heidelberg.de/~modak/seminars.html
 
 location: Heidelber, Germany
