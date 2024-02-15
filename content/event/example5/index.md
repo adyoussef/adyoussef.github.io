@@ -1,6 +1,5 @@
 ---
-title: Talk at PIMIKO 15
-subtitle: A Machine Learning Perspective on Hadronization Modeling with MLHAD
+title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
 
 event: PIKIMO 15
 event_url: https://indico.cern.ch/event/1323700/contributions/5662926/

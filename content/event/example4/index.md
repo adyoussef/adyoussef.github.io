@@ -1,6 +1,6 @@
 ---
-title: ML for Physics; Simulating particle collisions
-subtitle: sk cd
+title: Poster at Mediterranean Machine Learning Summer School
+subtitle: ML for Physics; Simulating particle collisions
 
 event: M2L Summer School 2023
 event_url: https://www.m2lschool.org/
