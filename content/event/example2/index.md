@@ -1,7 +1,7 @@
 ---
 title: A Machine Learning Perspective on Hadronization Modeling with MLHAD
 
-event: Hugo Blox Builder Conference
+event: PIKIMP 15
 event_url: https://indico.cern.ch/event/1323700/contributions/5662926/
 
 location: Indiana University
@@ -12,7 +12,7 @@ location: Indiana University
 #  postcode: '94305'
 #  country: United States
 
-summary: Hadronization, a crucial component of event generation, is traditionally simulated using finely-tuned empirical models. While current phenomenological models have achieved significant success in simulating this process, there remain areas where they fall short in accurately describing the underlying physics. In this talk, I will introduce MLHAD, an alternative approach that supplants the empirical model with a surrogate machine learning-based method, thereby facilitating data-trainability. I will delve into the current stage of its development and explore potential future direction.
+abstract: Hadronization, a crucial component of event generation, is traditionally simulated using finely-tuned empirical models. While current phenomenological models have achieved significant success in simulating this process, there remain areas where they fall short in accurately describing the underlying physics. In this talk, I will introduce MLHAD, an alternative approach that supplants the empirical model with a surrogate machine learning-based method, thereby facilitating data-trainability. I will delve into the current stage of its development and explore potential future direction.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
