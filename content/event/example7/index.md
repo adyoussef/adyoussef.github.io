@@ -5,7 +5,7 @@ subtitle: MLHAD; A Machine Learning based Simulation for Hadronization
 event: Physics and AI seminar at DESY
 #event_url: https://indico.ijs.si/event/1722/
 
-location: Josef Stefan Institute, Ljubljana, Slovenia
+location: DESY, Hamburg, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

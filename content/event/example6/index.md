@@ -5,7 +5,7 @@ subtitle: MLHAD; A Machine Learning based Simulation for Hadronization
 event: Particle Phenomenology Seminar at Heidelberg University
 event_url: https://www.thphys.uni-heidelberg.de/~modak/seminars.html
 
-location: Heidelber, Germany
+location: Heidelberg, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
