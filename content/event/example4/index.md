@@ -13,7 +13,7 @@ location: NeurIPS, New Orleans
 #  country: United States
 
 
-abstract: Poster presentation titled "ML for Physics: Simulating particle collisions" at the Mediterranean Machine Learning Summer School at American College of Thessaloniki (ACT) in Thessaloniki, Greece. 
+abstract: Poster presentation titled "ML for Physics; Simulating particle collisions" at the Mediterranean Machine Learning Summer School at American College of Thessaloniki (ACT) in Thessaloniki, Greece. 
 
 
 # Talk start and end times.
