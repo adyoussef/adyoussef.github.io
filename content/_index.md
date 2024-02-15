@@ -407,7 +407,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Selected Talks & Presentations
       filters:
         folders:
           - event
