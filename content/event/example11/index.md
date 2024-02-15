@@ -15,7 +15,8 @@ location: Heidelberg, Germany
 
 summary: Talk titled "Earth movers distance as a measure of CP violation" at the Teilchenkolloquium hosted by the Particle Physics Group at the TU Dortmund in Dortmund, Germany.
 
-abstract: Hadronization, a crucial component of event generation, is traditionally simulated using fine-tuned empirical models. While current phenomenological models have been quite successful overall in simulating this process, there are still areas where they lack accuracy in describing the underlying physics. In this talk, I will introduce MLHAD, a proposed alternative that replaces the empirical model with a surrogate machine learning-based approach, ultimately enabling data-trainability. I will detail the current stage of development and discuss possible future directions.
+abstract: We present a novel unbinned two sample test statistic sensitive to CP violation utilizing the optimal transport plan associated with the Wasserstein (earth movers) distance. The efficacy of the test statistic is shown via two examples of CP asymmetric distributions with varying sample sizes; the Dalitz distributions of B0 and D0 decays. The test statistic not only shows comparable sensitivity to CP violation as the commonly used energy test statistic but also retains valuable information about the localized distributions of CP asymmetry across the Dalitz plot. Additionally, we introduce two alternative test statistics that offer similar sensitivities to CP violation while significantly improving the time and space complexity scalings.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
