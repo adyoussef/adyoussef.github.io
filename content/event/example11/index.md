@@ -5,7 +5,7 @@ subtitle: Earth movers distance as a measure of CP violation
 event: Particle Phenomenology Seminar at Heidelberg University
 event_url: https://www.thphys.uni-heidelberg.de/~modak/seminars.html
 
-location: Heidelberg, Germany
+location: TU Dortmund, Dortmund, Germany
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
