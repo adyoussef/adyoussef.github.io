@@ -1,5 +1,5 @@
 ---
-title: Talk at PIMIKO 1
+title: Talk at PIMIKO 15
 subtitle: A Machine Learning Perspective on Hadronization Modeling with MLHAD
 
 event: PIKIMO 15
