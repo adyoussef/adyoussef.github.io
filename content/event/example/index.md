@@ -1,5 +1,5 @@
 ---
-title: Conference talk at Santiago de Compostela, Spain
+title: Conference talk at CKM 2023
 subtitle: Earth Mover’s Distance as a meassure for CP-violation
 
 event: CKM 2023
