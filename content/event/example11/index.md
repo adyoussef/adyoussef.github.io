@@ -1,6 +1,6 @@
 ---
-title: Particle Phenomenology Seminar at Heidelberg University
-subtitle: MLHAD; A Machine Learning based Simulation for Hadronization
+title: Teilchenkolloquium at TU Dortmund
+subtitle: Earth movers distance as a measure of CP violation
 
 event: Particle Phenomenology Seminar at Heidelberg University
 event_url: https://www.thphys.uni-heidelberg.de/~modak/seminars.html
