@@ -5,7 +5,7 @@ subtitle: ML for Physics; Simulating particle collisions
 event: MLSS^S
 event_url: https://mlss2023.mlinpl.org/
 
-location: Jagiellonian University in Krakow, Poland.
+location: Jagiellonian University in Krakow, Poland
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
