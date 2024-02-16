@@ -2,7 +2,7 @@
 title: Conference talk at Pheno2022
 subtitle: Modeling Hadronization using Machine Learning
 
-event: Pheno 2023
+event: Pheno 2022
 event_url: https://indico.cern.ch/event/1089132/contributions/4855562/
 
 location: University of Pittsburgh, Pittsburgh, Pennsylvania, United States
