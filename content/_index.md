@@ -455,6 +455,14 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+ - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="boxing" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
