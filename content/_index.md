@@ -460,7 +460,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="boxing" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: contact
