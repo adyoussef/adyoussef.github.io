@@ -6,7 +6,8 @@
 
 #title: Academic # Website name
 title: Ahmed Youssef # Website name
-baseURL: 'https://example.com/' # Website URL
+#baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://adyoussef.github.io/'
 
 ############################
 ## LANGUAGE
