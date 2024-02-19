@@ -457,7 +457,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: Gallery
+      title: Boxing
       subtitle: ''
       text: |-
         {{< gallery album="boxing" >}}
