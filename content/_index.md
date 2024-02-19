@@ -450,7 +450,7 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: 'Impressions of some locations I visited in 2023 to give talks include Krakow, Poland; Heidelberg, Germany; Hamburg, Germany; Prague, Czech Republic; Ljubljana, Slovenia; Venice, Italy; Thessaloniki, Greece; Santiago de Compostela, Spain; and New Orleans, US'
+      subtitle: 'Impressions of some locations I visited to give talks include Pittsburgh, US; Boston, US; Krakow, Poland; Prague, Czech Republic; Hamburg, Germany; Heidelberg, Germany; Hamburg, Germany; Ljubljana, Slovenia; Venice, Italy; Thessaloniki, Greece; Santiago de Compostela, Spain; and New Orleans, US'
       text: |-
         {{< gallery album="demo" >}}
     design:
