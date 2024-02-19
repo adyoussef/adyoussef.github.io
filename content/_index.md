@@ -450,7 +450,7 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: 'i Impressions of some locations I visited in 2023 to give talks include Krakow, Poland; Heidelberg, Germany; Hamburg, Germany; Prague, Czech Republic; Ljubljana, Slovenia; Venice, Italy; Thessaloniki, Greece; Santiago de Compostela, Spain; and New Orleans, US'
+      subtitle: 'Impressions of some locations I visited in 2023 to give talks include Krakow, Poland; Heidelberg, Germany; Hamburg, Germany; Prague, Czech Republic; Ljubljana, Slovenia; Venice, Italy; Thessaloniki, Greece; Santiago de Compostela, Spain; and New Orleans, US'
       text: |-
         {{< gallery album="demo" >}}
     design:
@@ -458,7 +458,7 @@ sections:
   - block: markdown
     content:
       title: Boxing
-      subtitle: ''
+      subtitle: 'I love spending time at the boxing gym. I am an active member of the UC boxing team and have competed in both regional and national collegiate boxing competitions. I have currently taken some time off from competing to focus more on my research, but I plan to compete again in the future.'
       text: |-
         {{< gallery album="boxing" >}}
     design:
