@@ -1,6 +1,6 @@
 ---
 title: Conference talk at 5th the International Conference in Natural Language Processing (ICNLP) 2023
-subtitle: FASST; Few-Shot Abstractive Summarization for Text Style Transfer
+subtitle: FASST, Few-Shot Abstractive Summarization for Text Style Transfer
 
 event: ICNLP 2023
 event_url: https://www.icnlp.net/2023.html
@@ -14,7 +14,7 @@ location: Hybrid, Guangzhou, China.
 #  country: United States
 
 
-summary: Online talk titled "FASST; Few-Shot Abstractive Summarization for Text Style Transfer" at the 5th international Conference in Natural Language Processing, Guangzhou, China.
+summary: Online talk titled "FASST, Few-Shot Abstractive Summarization for Text Style Transfer" at the 5th international Conference in Natural Language Processing, Guangzhou, China.
 
 #abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
 
