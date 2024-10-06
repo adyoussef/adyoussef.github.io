@@ -1,11 +1,11 @@
 ---
-title: Conference talk at DPF-Pheno 2024
+title: IST Austria Mathematics and Computer Science Seminar
 subtitle: Towards a data-driven model of hadronization using normalizing flows
 
-event: DPF-Pheno 2024
+event: IST Austria Mathematics and Computer Science Seminar
 event_url: https://indico.cern.ch/event/1358339/contributions/5899148/
 
-location: Pittsburgh, USA.
+location: Vienna, Austria.
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -14,14 +14,15 @@ location: Pittsburgh, USA.
 #  country: United States
 
 
-summary: Talk titled "Towards a data-driven model of hadronization using normalizing flows" at the DPF-Pheno conference in Pittburgh, USA.
+summary: Talk titled "ML for Physics, Simulating Particle Colisions with ML" at the Mathematics and Computer Science Seminar at IST Austria, Vienna, Austria.
+
 
 #abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-14'
+date: '2024-07-18'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
