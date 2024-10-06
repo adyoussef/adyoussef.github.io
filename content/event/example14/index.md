@@ -1,11 +1,11 @@
 ---
-title: Test Conference talk at CKM 2023
-subtitle: Earth Mover’s Distance as a meassure for CP-violation
+title: Conference talk at DPF-Pheno 2024
+subtitle: Towards a data-driven model of hadronization using normalizing flows
 
-event: CKM 2023
-event_url: https://indico.cern.ch/event/1184945/contributions/5437902/
+event: DPF-Pheno 2024
+event_url: https://indico.cern.ch/event/1358339/contributions/5899148/
 
-location: Santiago de Compostela, Spain.
+location: Pittsburgh, USA.
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -14,14 +14,14 @@ location: Santiago de Compostela, Spain.
 #  country: United States
 
 
-summary: Talk titled "Earth Mover’s Distance as a meassure for CP-violation" at the 12 international Conference on the CKM Unitarity Triangle, Santiago de Compostela, Spain.
+summary: Talk titled "Towards a data-driven model of hadronization using normalizing flows" at the 12 international Conference on the CKM Unitarity Triangle, Santiago de Compostela, Spain.
 
 #abstract: Poster presentation titled "Towards data-driven models of hadronization", with an associated paper and video, at the Machine Learning and the Physical Science Workshop at the 37th conference on Neural Information Processing Systems New Orleans, Louisiana, United States. 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-19'
+date: '2024-05-14'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
