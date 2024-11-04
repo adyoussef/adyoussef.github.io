@@ -133,19 +133,6 @@ sections:
               * Developed a Monte Carlo reweighting framework, improving simulation accuracy and increasing computational speed by 3-4x 
               * Designed a test statistic for CERN collider experiments, impacting 1,000+ datasets and billions of events 
               * Applied machine learning techniques to solve large-scale data analysis challenges, transferable to industry data modeling and predictive analysis tasks 
-##        - title: Independent AI Researcher
-##          #company: University X
-##          #company_url: ''
-##          #company_logo: org-x
-##          #location: California
-##          date_start: '2022-06-01'
-##          date_end: ''
-##          description: |2-
-##              Responsibilities include:
-##
-##              * Collaborated with EEML mentored by Google DeepMind to design compact models for creative output, achieving high performance with reduced model size and faster inference
-##              * Published a GAN-based art generator using CLIP at NeurIPS ML for Creativity and Design workshop
-##	      * Developed AI explainability techniques for Vision Language Models 
         - title: Independent AI Researcher
           #company: University X
           #company_url: ''
@@ -157,21 +144,21 @@ sections:
               Responsibilities include:
               * Collaborated with EEML mentored by Google DeepMind to design compact models for creative output, achieving high performance with reduced model size and faster inference
               * Published a GAN-based art generator using CLIP at NeurIPS ML for Creativity and Design workshop
-              * Developed AI explainability techniques for Vision Language Models
-##        - title: Multiple Entrepreneurial Engagement 
-##          company: UC Center for Entrepreneurship
-##          #company_url: ''
-##          #company_logo: org-x
-##          location: Cincinnati
-##          date_start: '2023-01-01'
-##          date_end: ''
-##          description: |2-
-##              Responsibilities include:
-##
-##              * Led market research , accelerating product development and securing $7,500 in total funding through the Lab2Market fellowship and pitching at the New Venture Championship
-##              * Refined startup concepts and go-to-market plans through the UC Venture Lab Pre-Accelerator Program
-##	      * Developed a computer vision-based quality control system, achieving 90% classification accuracy for manufacturing optimization 
-##
+              * Developed AI explainability techniques for Vision-Language Models
+        - title: Multiple Entrepreneurial Engagement 
+          company: UC Center for Entrepreneurship
+          #company_url: ''
+          #company_logo: org-x
+          location: Cincinnati
+          date_start: '2023-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Led market research , accelerating product development and securing $7,500 in total funding through the Lab2Market fellowship and pitching at the New Venture Championship
+              * Refined startup concepts and go-to-market plans through the UC Venture Lab Pre-Accelerator Program
+              * Developed a computer vision-based quality control system, achieving 90% classification accuracy for manufacturing optimization
+
     design:
       columns: '2'
   - block: accomplishments
