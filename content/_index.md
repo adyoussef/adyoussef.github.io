@@ -50,6 +50,62 @@ sections:
  #     username: admin
  #   design:
  #     columns: '1'
+###############################################
+##  - block: experience
+##    id: exp
+##    content:
+##      title: Experience
+##      # Date format for experience
+##      #   Refer to https://docs.hugoblox.com/customization/#date-format
+##      date_format: Jan 2006
+##      # Experiences.
+##      #   Add/remove as many `experience` items below as you like.
+##      #   Required fields are `title`, `company`, and `date_start`.
+##      #   Leave `date_end` empty if it's your current employer.
+##      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+##      items:
+##        - title: Graduate Research Assistant
+##          company: University of Cincinnati
+##          company_url: ''
+##         # company_logo: org-gc
+##          location: Cincinnati
+##          date_start: '2020-01-01'
+##          date_end: ''
+##          description: |2-
+##              Responsibilities include (listed tasks resulted in publication(s) and talks at conferences):
+##
+##              * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models adopted by 10k+ particle physics researcher worldwide
+##              * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
+##              * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
+##              * Innovated a pivotal test statistic, enhancing data analysis and interpretation for collider experiments at LHC-CERN, impacting over 100k datasets and billions of events
+##        - title: Independent AI Researcher
+##          #company: University X
+##          #company_url: ''
+##          #company_logo: org-x
+##          #location: California
+##          date_start: '2022-06-01'
+##          date_end: ''
+##          description: |2-
+##              Responsibilities include:
+##
+##              * Collaborated in an AI research team at EEML summer school, facilitated by DeepMind
+##              * Designed a GAN-based art generator using CLIP model and text prompts, resulting in a publication at the NeurIPS ML for Creativity and Design workshop
+##        - title: Lab2Market Fellow
+##          company: UC Center for Entrepreneurship
+##          #company_url: ''
+##          #company_logo: org-x
+##          location: Cincinnati
+##          date_start: '2023-01-01'
+##          date_end: ''
+##          description: |2-
+##              Responsibilities include:
+##
+##              * Build an identification and authentication system to mitigate fraud in art and production lines, elevating security standards
+##              * Led market research and cross-functional team collaboration, accelerating product development and securing $2,500 in the New Venture Championship through strategic pitching
+##
+##    design:
+##      columns: '2'
+###########################################################
   - block: experience
     id: exp
     content:
@@ -63,8 +119,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Assistant
-          company: University of Cincinnati
+        - title: Researcher in Computational Physics #Graduate Research Assistant
+          company: HEP-Theory Group at University of Cincinnati
           company_url: ''
          # company_logo: org-gc
           location: Cincinnati
@@ -73,10 +129,10 @@ sections:
           description: |2-
               Responsibilities include (listed tasks resulted in publication(s) and talks at conferences):
 
-              * Developed ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), Bayesian NN, and Sequence models adopted by 10k+ particle physics researcher worldwide
-              * Utilized LLM (OPT, GPT3, T5) for unsupervised text style transfer, resulting in a novel text style transfer method
-              * Prompt engineered NLP models for seamless integration and deployment in summarization tasks
-              * Innovated a pivotal test statistic, enhancing data analysis and interpretation for collider experiments at LHC-CERN, impacting over 100k datasets and billions of events
+              * Led ML-based particle collision simulations using Generative Models (VAE, Normalizing Flows), adopted by 10k+ researchers globally
+              * Developed a Monte Carlo reweighting framework, improving simulation accuracy and increasing computational speed by 3-4x 
+              * Designed a test statistic for CERN collider experiments, impacting 1,000+ datasets and billions of events 
+              * Applied machine learning techniques to solve large-scale data analysis challenges, transferable to industry data modeling and predictive analysis tasks 
         - title: Independent AI Researcher
           #company: University X
           #company_url: ''
@@ -87,9 +143,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Collaborated in an AI research team at EEML summer school, facilitated by DeepMind
-              * Designed a GAN-based art generator using CLIP model and text prompts, resulting in a publication at the NeurIPS ML for Creativity and Design workshop
-        - title: Lab2Market Fellow
+              * Collaborated with EEML mentored by Google DeepMind to design compact models for creative output, achieving high performance with reduced model size and faster inference
+              * Published a GAN-based art generator using CLIP at NeurIPS ML for Creativity and Design workshop
+	     * Developed AI explainability techniques for Vision-Language Models (see Project section) 
+        - title: Multiple Entrepreneurial Engagement #Lab2Market Fellow
           company: UC Center for Entrepreneurship
           #company_url: ''
           #company_logo: org-x
@@ -99,8 +156,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Build an identification and authentication system to mitigate fraud in art and production lines, elevating security standards
-              * Led market research and cross-functional team collaboration, accelerating product development and securing $2,500 in the New Venture Championship through strategic pitching
+              * Led market research , accelerating product development and securing $7,500 in total funding through the Lab2Market fellowship and pitching at the New Venture Championship
+              * Refined startup concepts and go-to-market plans through the UC Venture Lab Pre-Accelerator Program
+	     * Developed a computer vision-based quality control system, achieving 90% classification accuracy for manufacturing optimization 
 
     design:
       columns: '2'
