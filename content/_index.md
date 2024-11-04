@@ -146,7 +146,7 @@ sections:
               * Collaborated with EEML mentored by Google DeepMind to design compact models for creative output, achieving high performance with reduced model size and faster inference
               * Published a GAN-based art generator using CLIP at NeurIPS ML for Creativity and Design workshop
 	      * Developed AI explainability techniques for Vision-Language Models (see Project section) 
-        - title: Multiple Entrepreneurial Engagement #Lab2Market Fellow
+        - title: Multiple Entrepreneurial Engagement 
           company: UC Center for Entrepreneurship
           #company_url: ''
           #company_logo: org-x
