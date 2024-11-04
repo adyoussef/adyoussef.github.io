@@ -119,7 +119,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher in Computational Physics #Graduate Research Assistant
+        - title: Researcher in Computational Physics 
           company: HEP-Theory Group at University of Cincinnati
           company_url: ''
          # company_logo: org-gc
@@ -145,7 +145,7 @@ sections:
 
               * Collaborated with EEML mentored by Google DeepMind to design compact models for creative output, achieving high performance with reduced model size and faster inference
               * Published a GAN-based art generator using CLIP at NeurIPS ML for Creativity and Design workshop
-	     * Developed AI explainability techniques for Vision-Language Models (see Project section) 
+	      * Developed AI explainability techniques for Vision-Language Models (see Project section) 
         - title: Multiple Entrepreneurial Engagement #Lab2Market Fellow
           company: UC Center for Entrepreneurship
           #company_url: ''
@@ -158,7 +158,7 @@ sections:
 
               * Led market research , accelerating product development and securing $7,500 in total funding through the Lab2Market fellowship and pitching at the New Venture Championship
               * Refined startup concepts and go-to-market plans through the UC Venture Lab Pre-Accelerator Program
-	     * Developed a computer vision-based quality control system, achieving 90% classification accuracy for manufacturing optimization 
+	      * Developed a computer vision-based quality control system, achieving 90% classification accuracy for manufacturing optimization 
 
     design:
       columns: '2'
