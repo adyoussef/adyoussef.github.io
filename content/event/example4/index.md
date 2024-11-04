@@ -3,7 +3,8 @@ title: Poster at Mediterranean Machine Learning Summer School
 subtitle: ML for Physics; Simulating particle collisions
 
 event: M2L Summer School 2023
-event_url: https://www.m2lschool.org/
+event_url: https://www.m2lschool.org/past-editions/m2l-2023-greece/posters-2023
+#  https://www.m2lschool.org/
 
 location: M2L, Thessaloniki, Greece
 #address:

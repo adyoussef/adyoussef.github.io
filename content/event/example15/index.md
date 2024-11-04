@@ -3,7 +3,7 @@ title: IST Austria Mathematics and Computer Science Seminar
 subtitle: Towards a data-driven model of hadronization using normalizing flows
 
 event: IST Austria Mathematics and Computer Science Seminar
-event_url: https://indico.cern.ch/event/1358339/contributions/5899148/
+#event_url: https://indico.cern.ch/event/1358339/contributions/5899148/
 
 location: Vienna, Austria.
 #address:
