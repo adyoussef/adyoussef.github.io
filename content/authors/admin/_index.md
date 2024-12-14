@@ -134,7 +134,7 @@ highlight_name: true
 #I am consistently enthusiastic about tackling new and meaningful projects, and I actively embrace the opportunity to expand my knowledge and skills.
 ---
 
-Research involves machine learning and generative models (e.g., VAEs, normalizing flows, transformers) to simulate complex physical processes, such as particle collisions in collider experiments. This work involves advanced techniques for uncertainty quantification, particle cloud representations, and Message-Passing Graph Neural Networks (MPGNNs). This work is conducted within the  MLhad collaboration.
+Research involves machine learning and generative models (e.g., VAEs, normalizing flows, transformers) to simulate complex physical processes, such as particle collisions in collider experiments. This work involves advanced techniques for uncertainty quantification, particle cloud representations, and Message-Passing Graph Neural Networks (MPGNNs). This work is conducted within the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/).
 
 Experience with large language models (e.g., GPT- models, OPT), focusing on unsupervised text style transfer, summarization, sentiment analysis, and interpreting failures in vision-language models like LLaVA. Skilled in designing and implementing neural networks, developing training pipelines, and customizing loss functions for domain-specific applications, bridging academic research and practical, implementable solutions.
 
