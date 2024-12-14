@@ -125,7 +125,7 @@ highlight_name: true
 
 
 #My physics research primarily revolves around computational physics, specifically simulating particle collisions. As member of the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/), we focus on the intricate process of hadronization, where quarks and gluons combine to form particles. This complex phenomenon defies first principles, necessitating a ML approach that not only leverages generative models but also crucially focuses on how to estimate the uncertainties involved.
----
+#---
 
 #My physics research primarily revolves around computational physics, specifically simulating particle collisions. As members of the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/), we focus on the process of hadronizatoin, where quarks—the elementary building blocks—combine to form particles. Despite its fundamental nature, this process remains a physical black box, with no theoretical framework for its description, making it necessary to utilize machine learning (ML), particularly generative models.
 
