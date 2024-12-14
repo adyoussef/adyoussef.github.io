@@ -127,11 +127,16 @@ highlight_name: true
 #My physics research primarily revolves around computational physics, specifically simulating particle collisions. As member of the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/), we focus on the intricate process of hadronization, where quarks and gluons combine to form particles. This complex phenomenon defies first principles, necessitating a ML approach that not only leverages generative models but also crucially focuses on how to estimate the uncertainties involved.
 ---
 
-My physics research primarily revolves around computational physics, specifically simulating particle collisions. As members of the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/), we focus on the process of hadronizatoin, where quarks—the elementary building blocks—combine to form particles. Despite its fundamental nature, this process remains a physical black box, with no theoretical framework for its description, making it necessary to utilize machine learning (ML), particularly generative models.
+#My physics research primarily revolves around computational physics, specifically simulating particle collisions. As members of the [MLhad collaboration](https://uchep.gitlab.io/mlhad-docs/), we focus on the process of hadronizatoin, where quarks—the elementary building blocks—combine to form particles. Despite its fundamental nature, this process remains a physical black box, with no theoretical framework for its description, making it necessary to utilize machine learning (ML), particularly generative models.
 
-Beyond my work in ML for Science, I have cultivated a deep fascination for ML research, leading me to serve as an Independent AI researcher on a diverse array of projects in generative art and LLM, resulting in publications. Over the past few years, I have become increasingly excited about LLM, AI reasoning, safe and scalable deep learning. 
+#Beyond my work in ML for Science, I have cultivated a deep fascination for ML research, leading me to serve as an Independent AI researcher on a diverse array of projects in generative art and LLM, resulting in publications. Over the past few years, I have become increasingly excited about LLM, AI reasoning, safe and scalable deep learning. 
 
-I am consistently enthusiastic about tackling new and meaningful projects, and I actively embrace the opportunity to expand my knowledge and skills.
+#I am consistently enthusiastic about tackling new and meaningful projects, and I actively embrace the opportunity to expand my knowledge and skills.
+
+
+Research involves machine learning and generative models (e.g., VAEs, normalizing flows, transformers) to simulate complex physical processes, such as particle collisions in collider experiments. This work involves advanced techniques for uncertainty quantification, particle cloud representations, and Message-Passing Graph Neural Networks (MPGNNs). This work is conducted within the  MLhad collaboration.
+
+Experience with large language models (e.g., GPT- models, OPT), focusing on unsupervised text style transfer, summarization, sentiment analysis, and interpreting failures in vision-language models like LLaVA. Skilled in designing and implementing neural networks, developing training pipelines, and customizing loss functions for domain-specific applications, bridging academic research and practical, implementable solutions.
 
 
 {style="text-align: justify;"}
