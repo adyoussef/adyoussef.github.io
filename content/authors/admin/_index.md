@@ -28,10 +28,10 @@ organizations:
 bio: My research interests include generative modeles, probalistic modeling, and there application in science and outside.
 
 # Interests to show in About widget
-interests:
-  - Deep Learning for Science
-  - Deep Learning Reasoning
-  - Interdisciplinary Research
+#interests:
+#  - Deep Learning for Science
+#  - Deep Learning Reasoning
+#  - Interdisciplinary Research
 
 # Education to show in About widget
 education:
