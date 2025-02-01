@@ -43,7 +43,7 @@ education:
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
     - course: BSc in Physics
-      institution: Ruhr University Bochum
+      institution: Ruhr University Bochum, Germany
       year: 2019
 
 #no skills:
@@ -286,7 +286,7 @@ highlight_name: true
 
 Ahmed Youssef is a Ph.D. Candidate in the High Energy Theory Group at the University of Cincinnati, where he applies machine learning to tackle challenges in particle physics. Supported by the Department of Energy (DOE) and the National Science Foundation (NSF), his research focuses on improving simulation accuracy and efficiency in modeling particle collisions and includes developing an open-source visualization tool to enhance accessibility in the community.
 
-Ahmed collaborates with researchers affiliated with leading institutions, including Berkeley, Fermilab, CERN, and MIT, and has presented at NeurIPS and various international venues. He has also served as a convener at DPF and Pheno 2024 and co-organized the Muslim in ML Affinity Workshop at NeurIPS 2024, with plans to expand similar initiatives to ICML, ICLR, and AISTATS.
+Ahmed collaborates with researchers affiliated with leading institutions, including Berkeley, Fermilab, CERN, and MIT, and has presented at NeurIPS and an upcoming talk at Google DeepMind. He has also served as a convener at DPF and Pheno 2024 and co-organized the Muslim in ML Affinity Workshop at NeurIPS 2024, with plans to expand similar initiatives to ICML, ICLR, and AISTATS.
 
 Beyond particle physics, Ahmed contributes to AI explainability for Vision-Language Models and has explored generative models for creative applications and text style transfer, with his work featured at NeurIPS ML for Creativity and Design and ICNLP. Recognized with awards such as the URC Fellowship, Lab2Market Fellowship, and the Deutschland Scholarship, he bridges physics and AI through machine learning research to advance interpretable and scalable systems across disciplines.
 
