@@ -14,7 +14,7 @@ location: London, UK.
 #  country: United States
 
 
-summary: Invited talk titled "Bridging Physics and AI; Machine Learning for Particle Collision Simulation" at Google DeepMind Headquartes, London, UK.
+summary: Invited talk titled "Bridging Physics and AI; Machine Learning for Particle Collision Simulation" at Google DeepMind Headquarter, London, UK.
 
 
 abstract: 
