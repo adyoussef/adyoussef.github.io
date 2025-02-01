@@ -1,6 +1,6 @@
 ---
 title: Invited to talk at Google DeepMind
-subtitle: Bridging Physics and AI: Machine Learning for Particle Collision Simulation
+subtitle: Bridging Physics and AI, Machine Learning for Particle Collision Simulation
 
 event: Google DeepMind
 #event_url: https://indico.cern.ch/event/1358339/contributions/5899148/
