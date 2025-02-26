@@ -33,24 +33,14 @@ profiles:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:youssead@ucmail.uc.edu'
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
-  #  label: Follow me on Twitter
-  #  display:
-  #    header: true
-  #- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     link: https://github.com/adyoussef
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     link: https://www.linkedin.com/in/ahmed-youssef9/
+
+
 
 interests:
   - Artificial Intelligence
