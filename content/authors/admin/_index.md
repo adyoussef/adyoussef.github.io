@@ -52,8 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  courses:
-    - are: Ph.D. in Physics
+    - area: Ph.D. in Physics
       institution: University of Cincinnati
       date_start: 2020
       date_end: 2025
@@ -61,7 +60,7 @@ education:
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
-    - are: BSc in Physics
+    - area: BSc in Physics
       institution: Ruhr University Bochum
       date_start: 2016
       date_end: 2019
