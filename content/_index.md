@@ -49,7 +49,7 @@ sections:
       filters:
         folders:
           - publication/mlSciencePaper
-        featured_only: true
+        featured_only: False
     design:
       view: article-grid
       columns: 2
