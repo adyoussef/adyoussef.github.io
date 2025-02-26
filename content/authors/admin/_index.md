@@ -53,13 +53,13 @@ interests:
 
 education:
   courses:
-    - course: Ph.D. in Physics
+    - are: Ph.D. in Physics
       institution: University of Cincinnati
       year: 2020 - Present
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
-    - course: BSc in Physics
+    - are: BSc in Physics
       institution: Ruhr University Bochum
       year: 2019
 
