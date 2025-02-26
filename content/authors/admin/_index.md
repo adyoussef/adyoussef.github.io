@@ -30,21 +30,27 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:youssead@ucmail.uc.edu'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
+  #- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/adyoussef
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ahmed-youssef9/
 
 interests:
   - Artificial Intelligence
