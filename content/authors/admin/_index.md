@@ -55,13 +55,16 @@ education:
   courses:
     - are: Ph.D. in Physics
       institution: University of Cincinnati
-      year: 2020 - Present
+      date_start: 2020
+      date_end: 2025
+    #  year: 2020 - Present
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2009
     - are: BSc in Physics
       institution: Ruhr University Bochum
-      year: 2019
+      date_start: 2016
+      date_end: 2019
 
 ##education:
 ##  - area: PhD Artificial Intelligence
