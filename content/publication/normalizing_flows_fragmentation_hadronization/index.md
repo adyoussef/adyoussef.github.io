@@ -51,8 +51,8 @@ abstract: Hadronization is an important step in Monte Carlo event generators, wh
 # Summary. An optional shortened abstract.
 summary: In this paper we present two novel training paradigm to ....
 
-tags: []
-
+tags:
+  - NeurIPS ML4PS 2022
 # Display this page in the Featured widget?
 featured: true
 
