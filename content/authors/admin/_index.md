@@ -35,8 +35,8 @@ profiles:
     link: 'mailto:youssead@ucmail.uc.edu'
   - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?hl=en&user=Dp1iOKUAAAAJ
-  - icon: brands/github
-    link: https://github.com/adyoussef
+#  - icon: brands/github
+#    link: https://github.com/adyoussef
   - icon: brands/linkedin
     link: https://www.linkedin.com/in/ahmed-youssef9/
 
