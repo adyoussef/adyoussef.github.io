@@ -329,32 +329,87 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+##awards:
+##  - title: Neural Networks and Deep Learning
+##    url: https://www.coursera.org/learn/neural-networks-deep-learning
+##    date: '2023-11-25'
+##    awarder: Coursera
+##    icon: coursera
+##    summary: |
+##      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+##  - title: Blockchain Fundamentals
+##    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+##    date: '2023-07-01'
+##    awarder: edX
+##    icon: edx
+##    summary: |
+##      Learned:
+##      - Synthesize your own blockchain solutions
+##      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+##      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+##  - title: 'Object-Oriented Programming in R'
+##    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+##    certificate_url: https://www.datacamp.com
+##    date: '2023-01-21'
+##    awarder: datacamp
+##    icon: datacamp
+##    summary: |
+##      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: M2L Summer School 2023
+    url: https://www.m2lschool.org/
+    certificate_url: https://drive.google.com/file/d/1Z6WnQxs1-16Dc6GW2vDQzSiyaS7Sg5HR/view?usp=sharing
+    date: '2023-08-01'
+    awarder: M2L Organization Team
+    icon: graduation-cap
+    summary: |
+      Selected to participate in the prestigious M2L Summer School organized by Google DeepMind, gaining cutting-edge insights into Machine Learning research. Engaged in rigorous workshops, including advanced multimodal learning, diffusion models, and spatial audio integration. Collaborated with leading researchers and peers to solve complex ML challenges, enhancing my expertise in state-of-the-art neural network architectures and model optimization techniques.
+
+  - title: MLSS Summer School 2023
+    url: https://mlss2023.mlinpl.org/
+    certificate_url: https://drive.google.com/file/d/184BPL39lcdFb7ULH4JJkzxR3SXuotcmf/view?usp=sharing
+    date: '2023-06-01'
+    awarder: MLSS Organization Team
+    icon: graduation-cap
+    summary: |
+      Attended the highly competitive MLSS Summer School focused on ML applications in scientific research. Acquired advanced knowledge in probabilistic modeling, generative AI, and reinforcement learning. Collaborated with world-renowned experts, enhancing my research methodology and applying ML algorithms to complex scientific data. This experience significantly advanced my capabilities in deploying scalable ML solutions for high-impact scientific challenges.
+
+  - title: EEML Summer School 2022
+    url: https://www.eeml.eu/previous-editions/eeml2022
+    certificate_url: https://drive.google.com/file/d/1JrWq1NIATJoniSjGtSI3jwvNz8GClTjd/view?usp=sharing
+    date: '2022-06-01'
+    awarder: EEML Organization Team
+    icon: graduation-cap
+    summary: |
+      Selected among top applicants worldwide to participate in EEML Summer School organized by Google DeepMind. Deepened my understanding of advanced machine learning techniques, including graph neural networks, variational inference, and unsupervised representation learning. Engaged in hands-on coding labs and research workshops, collaborating with leading AI researchers. This experience empowered me to innovate and apply ML to complex real-world problems effectively.
+
+  - title: Natural Language Processing with Classification and Vector Spaces
+    url: https://www.coursera.org
+    certificate_url: https://coursera.org/share/47da3d05afbc2362a418991bbfbf8fbe
+    date: '2021-10-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Completed a comprehensive course in Natural Language Processing, mastering text classification algorithms, vector space models, and semantic similarity measures. Developed practical skills in implementing NLP pipelines using Python and popular NLP libraries. This course strengthened my foundation in linguistic data processing, enabling me to design efficient NLP solutions for various applications.
+
+  - title: GAN Specialization
+    url: https://www.coursera.org
+    certificate_url: https://coursera.org/share/97bd9bd1f404594e6f3156c1cb6d1e33
+    date: '2021-04-01'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Specialized in Generative Adversarial Networks (GANs), gaining in-depth knowledge of generative modeling, adversarial training techniques, and GAN architectures. Implemented advanced GAN models for image synthesis and data augmentation. This specialization significantly enhanced my generative modeling skills, empowering me to innovate in creative AI and synthetic data generation.
+
+  - title: Deep Learning Specialization
+    url: https://www.coursera.org
+    certificate_url: https://www.coursera.org/account/accomplishments/specialization/G6P5L3JKCJBK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n
+    date: '2021-02-01'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Completed the renowned Deep Learning Specialization led by Andrew Ng, mastering neural network architectures, including CNNs and RNNs. Gained advanced knowledge in hyperparameter tuning, model optimization, and sequence modeling. This specialization solidified my foundation in deep learning, preparing me to tackle complex challenges in computer vision, NLP, and multimodal ML systems.
 ---
 
 ## About Me
