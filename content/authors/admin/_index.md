@@ -220,6 +220,75 @@ skills:
       percent: 70
       icon: terminal
       icon_pack: fas
+- name: Frameworks & Libraries
+  items:
+    - name: PyTorch
+      description: ''
+      percent: 85
+      icon: fire
+      icon_pack: fas
+    - name: TensorFlow
+      description: ''
+      percent: 80
+      icon: project-diagram
+      icon_pack: fas
+    - name: HuggingFace
+      description: ''
+      percent: 75
+      icon: smile-wink
+      icon_pack: fas
+    - name: JAX
+      description: ''
+      percent: 70
+      icon: rocket
+      icon_pack: fas
+    - name: NumPy
+      description: ''
+      percent: 90
+      icon: square-root-alt
+      icon_pack: fas
+    - name: Pandas
+      description: ''
+      percent: 85
+      icon: table
+      icon_pack: fas
+    - name: Scikit-Learn
+      description: ''
+      percent: 80
+      icon: chart-line
+      icon_pack: fas
+    - name: OpenCV
+      description: ''
+      percent: 75
+      icon: camera
+      icon_pack: fas
+- name: Technologies & Tools
+  items:
+    - name: AWS
+      description: ''
+      percent: 70
+      icon: cloud
+      icon_pack: fas
+    - name: Distributed Training
+      description: ''
+      percent: 80
+      icon: network-wired
+      icon_pack: fas
+    - name: Jupyter
+      description: ''
+      percent: 90
+      icon: book-open
+      icon_pack: fas
+    - name: Vision-Language Models
+      description: ''
+      percent: 75
+      icon: eye
+      icon_pack: fas
+    - name: Deep Learning
+      description: ''
+      percent: 90
+      icon: brain
+      icon_pack: fas
 
 
 
