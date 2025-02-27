@@ -177,47 +177,38 @@ skills:
   items:
     - name: Python
       description: ''
-      percent: 90
       icon: python
       icon_pack: fab
     - name: C++
       description: ''
-      percent: 80
       icon: code
       icon_pack: fas
     - name: SQL
       description: ''
-      percent: 70
       icon: database
       icon_pack: fas
     - name: Apache Spark
       description: ''
-      percent: 60
       icon: fire
       icon_pack: fas
     - name: Swift
       description: ''
-      percent: 50
       icon: swift
       icon_pack: fab
     - name: Git
       description: ''
-      percent: 80
       icon: git-alt
       icon_pack: fab
     - name: Docker
       description: ''
-      percent: 75
       icon: docker
       icon_pack: fab
     - name: Linux
       description: ''
-      percent: 80
       icon: linux
       icon_pack: fab
     - name: Bash Scripting
       description: ''
-      percent: 70
       icon: terminal
       icon_pack: fas
 - name: Frameworks & Libraries
