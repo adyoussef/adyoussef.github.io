@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: grey
+        color: white
         image:
           # Add your image background to `assets/media/`.
         #  filename: stacked-peaks.svg
