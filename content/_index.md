@@ -19,7 +19,7 @@ sections:
         text:  Download CV
         url: uploads/Resume_Ahmed_Youssef_v2.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: grey
         image:
