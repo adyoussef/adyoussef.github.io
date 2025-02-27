@@ -135,10 +135,10 @@ education:
 
 work:
   - position: Research Assistant| Research Scientist & ML Engineer ​
-    company_name: GenCoin
+    company_name: UNIVERSITY OF CINCINNATII – HEP THEORY GROUP​
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-01-13
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -146,17 +146,30 @@ work:
       - Designed a Monte Carlo reweighting framework that improved simulation accuracy and computational speed 3-4×
       - Developed scalable parallel computing infrastructure, optimizing AI-driven particle collision simulations impacting 10,000+ researchers
       - Built scalable ML systems for exploratory AI research and automation in scientific simulations
-  - position: Backend Software Engineer
-    company_name: X
+  - position: DEEP LEARNING & AI RESEARCHER​
+    #company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed scalable LLM fine-tuning & inference pipelines, improving model efficiency for multimodal applications
+      - Developed AI explainability techniques for Vision-Language Models (VLMs) and LLMs, enhancing interpretability and robustness
+      - Engineered model compression and optimization techniques to reduce compute costs while maintaining accuracy
+      - Researched multimodal learning, representation learning, and robustness in generative models
+  - position: Machine Learning & AI Product Engineer
+    company_name: UC CENTER FOR ENTREPRENEURSHIP​
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Developed an AI-driven quality control system, integrating computer vision & ML for automated defect detection
+      - Secured $7,500 in startup funding through pitching, advancing AI-driven industrial automation
+      - Led the deployment of scalable AI solutions, focusing on edge computing and real-time ML inference
+      - Drove innovation and growth by exploring new AI applications for manufacturing and supply chain industries
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -165,14 +178,14 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+     #   percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+     #   percent: 100
         icon: chart-bar
       - name: SQL
-        description: ''
+     #   description: ''
         percent: 40
         icon: circle-stack
   - name: Hobbies
