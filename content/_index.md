@@ -48,7 +48,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication/mlSciencePaper
+          - publication
         featured_only: False
     design:
       view: article-grid
