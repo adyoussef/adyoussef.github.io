@@ -48,7 +48,7 @@ sections:
       title: Conference Paper
       filters:
         folders:
-          - conferencePapers
+          - publication
         featured_only: False
     design:
       view: article-grid
