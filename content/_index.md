@@ -54,6 +54,17 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: papers
+    content:
+      title: Featured Publications 2
+      filters:
+        folders:
+          - publication2
+        featured_only: False
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     content:
       title: Recent Publications
       text: ""
