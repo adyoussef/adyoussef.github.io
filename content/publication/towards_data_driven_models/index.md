@@ -15,7 +15,7 @@ authors:
   - Stephen Mrenna
   - Manuel Szewc
   - Michael K. Wilkinson
-  - Ahmed Youssef
+  - admin
   - Jure Zupan
 
 
@@ -52,7 +52,8 @@ abstract: This paper introduces two novel machine learning based approaches to i
 # Summary. An optional shortened abstract.
 summary: In this paper we present two novel training paradigm to ....
 
-tags: []
+tags:
+  - NeurIPS ML4PS 2023
 
 # Display this page in the Featured widget?
 featured: true
