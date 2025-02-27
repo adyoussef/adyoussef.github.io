@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: ML and Physics Publications
+      title: Conference Paper
       filters:
         folders:
           - publication
