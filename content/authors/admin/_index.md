@@ -173,7 +173,7 @@ work:
 
 
 skills:
-- name: Programming Languages & Systems
+- name: Programming 
   items:
     - name: Python
       description: ''
@@ -211,7 +211,7 @@ skills:
       description: ''
       icon: terminal
       icon_pack: fas
-- name: Frameworks & Libraries
+- name: Frameworks
   items:
     - name: PyTorch
       description: ''
