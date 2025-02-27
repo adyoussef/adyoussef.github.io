@@ -171,47 +171,191 @@ work:
       - Led the deployment of scalable AI solutions, focusing on edge computing and real-time ML inference
       - Drove innovation and growth by exploring new AI applications for manufacturing and supply chain industries
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
-  - name: Technical Skills
+  - name: Programming Languages & Systems
     items:
       - name: Python
         description: ''
-     #   percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-     #   percent: 100
-        icon: chart-bar
-      - name: SQL
-     #   description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 90
+        icon: python
+        icon_pack: fab
+      - name: C++
         description: ''
         percent: 80
-        icon: camera
+        icon: code
+        icon_pack: fas
+      - name: SQL
+        description: ''
+        percent: 70
+        icon: database
+        icon_pack: fas
+      - name: Apache Spark
+        description: ''
+        percent: 60
+        icon: bolt
+        icon_pack: fas
+      - name: Swift
+        description: ''
+        percent: 50
+        icon: apple
+        icon_pack: fab
+      - name: Git
+        description: ''
+        percent: 80
+        icon: git
+        icon_pack: fab
+      - name: Docker
+        description: ''
+        percent: 75
+        icon: docker
+        icon_pack: fab
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: linux
+        icon_pack: fab
+      - name: Bash Scripting
+        description: ''
+        percent: 70
+        icon: terminal
+        icon_pack: fas
+  - name: Frameworks & Libraries
+    items:
+      - name: PyTorch
+        description: ''
+        percent: 85
+        icon: brain
+        icon_pack: fas
+      - name: TensorFlow
+        description: ''
+        percent: 80
+        icon: brain
+        icon_pack: fas
+      - name: HuggingFace
+        description: ''
+        percent: 75
+        icon: smile
+        icon_pack: fas
+      - name: JAX
+        description: ''
+        percent: 70
+        icon: rocket
+        icon_pack: fas
+      - name: NumPy
+        description: ''
+        percent: 90
+        icon: square-root-alt
+        icon_pack: fas
+      - name: Pandas
+        description: ''
+        percent: 85
+        icon: table
+        icon_pack: fas
+      - name: Scikit-Learn
+        description: ''
+        percent: 80
+        icon: project-diagram
+        icon_pack: fas
+      - name: OpenCV
+        description: ''
+        percent: 75
+        icon: image
+        icon_pack: fas
+  - name: Technologies & Tools
+    items:
+      - name: AWS
+        description: ''
+        percent: 70
+        icon: cloud
+        icon_pack: fas
+      - name: Distributed Training
+        description: ''
+        percent: 80
+        icon: network-wired
+        icon_pack: fas
+      - name: Jupyter
+        description: ''
+        percent: 90
+        icon: book
+        icon_pack: fas
+      - name: Vision-Language Models
+        description: ''
+        percent: 75
+        icon: eye
+        icon_pack: fas
+      - name: Deep Learning
+        description: ''
+        percent: 90
+        icon: brain
+        icon_pack: fas
+  - name: Soft Skills
+    color: '#FFD700'
+    color_border: '#FFA500'
+    items:
+      - name: Organizational Leadership
+        description: ''
+        percent: 85
+        icon: users-cog
+        icon_pack: fas
+      - name: Technical Writing
+        description: ''
+        percent: 90
+        icon: pen
+        icon_pack: fas
+      - name: Education & Mentorship
+        description: ''
+        percent: 80
+        icon: chalkboard-teacher
+        icon_pack: fas
+      - name: Multilingual (English, German, Arabic)
+        description: ''
+        percent: 95
+        icon: globe
+        icon_pack: fas
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+##skills:
+##  - name: Technical Skills
+##    items:
+##      - name: Python
+##        description: ''
+##     #   percent: 80
+##        icon: code-bracket
+##      - name: Data Science
+##        description: ''
+##     #   percent: 100
+##        icon: chart-bar
+##      - name: SQL
+##     #   description: ''
+##        percent: 40
+##        icon: circle-stack
+##  - name: Hobbies
+##    color: '#eeac02'
+##    color_border: '#f0bf23'
+##    items:
+##      - name: Hiking
+##        description: ''
+##        percent: 60
+##        icon: person-simple-walk
+##      - name: Cats
+##        description: ''
+##        percent: 100
+##        icon: cat
+##      - name: Photography
+##        description: ''
+##        percent: 80
+##        icon: camera
+##
+##languages:
+##  - name: English
+##    percent: 100
+##  - name: Chinese
+##    percent: 75
+##  - name: Portuguese
+##    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
