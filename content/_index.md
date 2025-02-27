@@ -113,7 +113,7 @@ sections:
  ##     # Reduce spacing
  ##     spacing:
  ##       padding: [0, 0, 0, 0]
-  - block: markdown
+  - block: collection
     content:
       title: talks
       subtitle: 'Impressions of some locations I have visited to give talks including Novi Sad, Serbia; Geneva, Switzerland; Colerado, US; Pittsburgh, US; Boston, US; Krakow, Poland; Prague, Czech Republic; Hamburg, Germany; Heidelberg, Germany; Ljubljana, Slovenia; Venice, Italy; Thessaloniki, Greece; Santiago de Compostela, Spain; and New Orleans, US'
