@@ -108,8 +108,33 @@ education:
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##work:
+##  - position: Director of Cloud Infrastructure
+##    company_name: GenCoin
+##    company_url: ''
+##    company_logo: ''
+##    date_start: 2021-01-01
+##    date_end: ''
+##    summary: |2-
+##      Responsibilities include:
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##  - position: Backend Software Engineer
+##    company_name: X
+##    company_url: ''
+##    company_logo: ''
+##    date_start: 2016-01-01
+##    date_end: 2020-12-31
+##    summary: |
+##      Responsibilities include:
+##      - Migrated infrastructure to a new data center
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+##      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Research Assistant| Research Scientist & ML Engineer ​
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -117,9 +142,10 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led ML-driven simulations for scientific computing, leveraging generative AI for large-scale data modeling
+      - Designed a Monte Carlo reweighting framework that improved simulation accuracy and computational speed 3-4×
+      - Developed scalable parallel computing infrastructure, optimizing AI-driven particle collision simulations impacting 10,000+ researchers
+      - Built scalable ML systems for exploratory AI research and automation in scientific simulations
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
