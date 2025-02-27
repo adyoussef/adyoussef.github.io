@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: ML and Physics Publications
       filters:
         folders:
           - publication
