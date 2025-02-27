@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text:  CV
+        text:  Download CV
         url: uploads/Resume_Ahmed_Youssef_v2.pdf
     design:
       css_class: dark
@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications 2
+      title: Journal Paper
       filters:
         folders:
           - publication2
