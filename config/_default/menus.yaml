@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 20
   - name: Portfolio
-    url: uploads/AY_project_profile.pdf
+    url: uploads/AY_project.pdf
     weight: 30
 ##  - name: Projects
 ##    url: projects/
