@@ -18,6 +18,9 @@ sections:
       button:
         text:  Download CV
         url: uploads/CV_Ahmed_Youssef.pdf
+      button:
+        text:  Download Portfolio
+        url: uploads/AY_project_profile.pdf
     design:
       css_class: light
       background:
