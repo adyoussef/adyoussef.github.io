@@ -18,9 +18,11 @@ sections:
       button:
         text:  Download CV
         url: uploads/CV_Ahmed_Youssef.pdf
-      button:
-        text:  Download Portfolio
-        url: uploads/AY_project_profile.pdf
+      buttons:
+        - text: Download CV
+          url: uploads/CV_Ahmed_Youssef.pdf
+        - text: Download Portfolio
+          url: uploads/AY_project_profile.pdf
     design:
       css_class: light
       background:
@@ -32,27 +34,6 @@ sections:
             brightness: 1.0
           size: large
           position: center
-          parallax: false
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text:  Download Portfolio
-        url: uploads/AY_project_profile.pdf
-    design:
-      css_class: light
-      background:
-        color: white
-        image:
-          # Add your image background to `assets/media/`.
-        #  filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: large
-          position: right
           parallax: false
 ##  - block: markdown
 ##    content:
