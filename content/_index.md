@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text:  Download CV
-        url: uploads/Resume_Ahmed_Youssef_v2.pdf
+        url: uploads/CV_Ahmed_Youssef.pdf
     design:
       css_class: light
       background:
