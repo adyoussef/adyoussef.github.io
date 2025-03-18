@@ -52,7 +52,7 @@ sections:
           filters:
             brightness: 1.0
           size: large
-          position: center
+          position: right
           parallax: false
 ##  - block: markdown
 ##    content:
