@@ -146,30 +146,30 @@ work:
       - Designed a Monte Carlo reweighting framework that improved simulation accuracy and computational speed 3-4×
       - Developed scalable parallel computing infrastructure, optimizing AI-driven particle collision simulations impacting 10,000+ researchers
       - Built scalable ML systems for exploratory AI research and automation in scientific simulations
-  - position: DEEP LEARNING & AI RESEARCHER​
-    #company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-01-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Designed scalable LLM fine-tuning & inference pipelines, improving model efficiency for multimodal applications
-      - Developed AI explainability techniques for Vision-Language Models (VLMs) and LLMs, enhancing interpretability and robustness
-      - Engineered model compression and optimization techniques to reduce compute costs while maintaining accuracy
-      - Researched multimodal learning, representation learning, and robustness in generative models
-  - position: Machine Learning & AI Product Engineer
-    company_name: UC CENTER FOR ENTREPRENEURSHIP​
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-01-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Developed an AI-driven quality control system, integrating computer vision & ML for automated defect detection
-      - Secured $7,500 in startup funding through pitching, advancing AI-driven industrial automation
-      - Led the deployment of scalable AI solutions, focusing on edge computing and real-time ML inference
-      - Drove innovation and growth by exploring new AI applications for manufacturing and supply chain industries
+ ## - position: Independent DEEP LEARNING & AI RESEARCHER​
+ ##   #company_name: X
+ ##   company_url: ''
+ ##   company_logo: ''
+ ##   date_start: 2022-01-01
+ ##   date_end: ''
+ ##   summary: |
+ ##     Responsibilities include:
+ ##     - Designed scalable LLM fine-tuning & inference pipelines, improving model efficiency for multimodal applications
+ ##     - Developed AI explainability techniques for Vision-Language Models (VLMs) and LLMs, enhancing interpretability and robustness
+ ##     - Engineered model compression and optimization techniques to reduce compute costs while maintaining accuracy
+ ##     - Researched multimodal learning, representation learning, and robustness in generative models
+ ## - position: Machine Learning & AI Product Engineer
+ ##   company_name: UC CENTER FOR ENTREPRENEURSHIP​
+ ##   company_url: ''
+ ##   company_logo: ''
+ ##   date_start: 2022-01-01
+ ##   date_end: ''
+ ##   summary: |
+ ##     Responsibilities include:
+ ##     - Developed an AI-driven quality control system, integrating computer vision & ML for automated defect detection
+ ##     - Secured $7,500 in startup funding through pitching, advancing AI-driven industrial automation
+ ##     - Led the deployment of scalable AI solutions, focusing on edge computing and real-time ML inference
+ ##     - Drove innovation and growth by exploring new AI applications for manufacturing and supply chain industries
 
 
 skills:
